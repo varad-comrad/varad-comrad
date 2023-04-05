@@ -4,6 +4,12 @@
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=varad-comrad&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact&line_height=31&card_width=296px)
 
 
+
+
+## 🌐 Socials
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-asfora-74794a248) 
+<!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luizgbraga)-->
+
 <!-- <div align="center" style="display: flex;"> 
   <div>
     <img width="300em" src="https://github-readme-stats.vercel.app/api?username=varad-comrad&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -50,10 +56,6 @@
 # 📊 Stats
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=luizgbraga&theme=react&hide_border=false&include_all_commits=false&count_private=false&hide=contribs,issues&show_icons=true&line_height=31&card_width=488px)
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=luizgbraga&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&line_height=31&card_width=296px)
-
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luizgbraga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-asfora-74794a248) 
-
 
 
 ### Hi there 👋
