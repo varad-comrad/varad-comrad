@@ -1,7 +1,7 @@
 
 # 📊 Stats
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=varad-comrad&theme=react&hide_border=false&include_all_commits=true&count_private=true&hide=contribs,issues&show_icons=true&line_height=31&card_width=488px)
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=varad-comrad&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact&line_height=31&card_width=296px)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=varad-comrad&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact&line_height=31&card_width=488px)
 
 
 <!-- <div align="center" style="display: flex;"> 
@@ -12,7 +12,7 @@
     <img width="00em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varad-comrad&layout=compact&theme=dark"/>
   </div>
 </div>
-
+-->
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="C++" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
@@ -24,7 +24,7 @@
   <img align="center" alt="HTML5" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div> 
--->
+
 
 <!--
 # 💫 About Me
