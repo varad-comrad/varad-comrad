@@ -51,7 +51,7 @@
 
 <!--
 # 💫 About Me
-👨🏻‍💻 I'm an engineering student working as an intern at a digital marketing agency<br>📈 Currently, I'm automating tasks and developing softwares to perform digital marketing efforts<br>📓 Machine Learning enthusiast
+👨🏻‍💻 I'm an computer engineering student at Instituto Militar de Engenharia.<br>📈 Currently, I'm automating tasks and developing softwares to perform digital marketing efforts<br>📓 Machine Learning enthusiast
 
 # 💻 Personal Skills
 
