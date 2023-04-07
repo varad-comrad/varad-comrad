@@ -26,6 +26,7 @@
 <img align="center" alt="React-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <img align="center" alt="Redux-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
 <img align="center" alt="Angular-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+Typescript
 
 </div>
 
