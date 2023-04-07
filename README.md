@@ -32,10 +32,11 @@
 ## Back-end
 <div style="diplay: inline-block"><br>
 <img align="center" alt="Python" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+R lang
 <img align="center" alt="C++" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
 <img align="center" alt="C" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 <img align="center" alt="Julia" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg">
-  <img align="center" alt="Rust" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png">
+<img align="center" alt="Rust" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png">
 
 </div>
 
