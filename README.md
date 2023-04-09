@@ -73,7 +73,7 @@ Scikit-learn
 
 
 # 📊 Stats
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=varad-comrad&show_icons=true&include_all_commits=false&theme=react&hide_border=false" alt="Fabricio Asfora's github stats" height=210px /></a> <a href="https://github.com/varad-comrad/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varad-comrad&layout=compact&theme=react&hide_border=false" height=210px/></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=varad-comrad&show_icons=true&include_all_commits=false&theme=react&hide_border=false" alt="Fabricio Asfora's github stats" height=200px /></a> <a href="https://github.com/varad-comrad/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varad-comrad&layout=compact&theme=react&hide_border=false" height=200px/></a> 
 
 
 ## 🌐 Socials
