@@ -3,9 +3,13 @@
 ## Backend
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-## Other
+<img align="center" alt="Ruby" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png">
+
+## Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 Azure 
+
+## Others
 Docker
 
 -->
@@ -54,6 +58,8 @@ Docker
 <img align="center" alt="tensorflow" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
 <img align="center" alt="pytorch" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
 <img align="center" alt="opencv" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
+<img align="center" alt="pytest" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png">
+
 <!-- <img align="center" alt="cython" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cython/cython-original.svg"> -->
 <!-- <img align="center" alt="scikit-learn" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg"> -->
 <!-- <img align="center" alt="scipy" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg"> -->
