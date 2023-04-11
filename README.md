@@ -1,13 +1,37 @@
+<!--
+# 💫 About Me
+👨🏻‍💻 I'm a computer engineering student at Instituto Militar de Engenharia.<br>📈 Currently, I'm automating tasks and developing softwares to perform digital marketing efforts<br>📓 Machine Learning enthusiast
+
+# 📊 Stats
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=luizgbraga&theme=react&hide_border=false&include_all_commits=false&count_private=false&hide=contribs,issues&show_icons=true&line_height=31&card_width=488px)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=luizgbraga&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&line_height=31&card_width=296px)
+
+
+### Hi there 👋
+**varad-comrad/varad-comrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- ⚡ Fun fact: ...
+-->
 
 <!--
 ## Backend
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ## To learn
 
 V
 Zig
 Odin
+Elixir
 
 ## Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -30,6 +54,7 @@ Kubernetes
 <img align="center" alt="React-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <!-- <img align="center" alt="Next-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"> -->
 <img align="center" alt="flask" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png">
+<!-- <img align="center" alt="django" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"> -->
 <!-- <img align="center" alt="Angular-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"> -->
 <!-- <img align="center" alt="Typescript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> -->
 
@@ -50,14 +75,14 @@ Kubernetes
 
 </div>
 
-<!-- ## Database -->
-<!-- <div style="diplay: inline-block"><br> -->
-<!-- <img align="center" alt="MySQL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> -->
-<!-- <img align="center" alt="MongoDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">-->
+## Database
+<div style="diplay: inline-block"><br>
+<img align="center" alt="MySQL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img align="center" alt="MongoDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 <!-- <img align="center" alt="Oracle" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"> -->
 <!-- <img align="center" alt="PostgreSQL" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"> -->
 <!-- <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> -->
-<!-- </div> -->
+</div>
 
 ## Libraries 
 <div style="diplay: inline-block"><br>
@@ -129,29 +154,6 @@ Kubernetes
 </div> 
 
 
-<!--
-# 💫 About Me
-👨🏻‍💻 I'm an computer engineering student at Instituto Militar de Engenharia.<br>📈 Currently, I'm automating tasks and developing softwares to perform digital marketing efforts<br>📓 Machine Learning enthusiast
-
-# 📊 Stats
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=luizgbraga&theme=react&hide_border=false&include_all_commits=false&count_private=false&hide=contribs,issues&show_icons=true&line_height=31&card_width=488px)
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=luizgbraga&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&line_height=31&card_width=296px)
-
-
-### Hi there 👋
-**varad-comrad/varad-comrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
 
 
 <!-- <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
