@@ -118,7 +118,7 @@ Kubernetes
 
 
 # 📊 Stats
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=varad-comrad&theme=react&hide_border=false&include_all_commits=true&count_private=true&hide=contribs,issues&show_icons=true&line_height=31&card_width=488px)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=varad-comrad&theme=react&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=21&card_width=288px)
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=varad-comrad&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&line_height=31&card_width=296px)
 
 
@@ -128,15 +128,15 @@ Kubernetes
  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/#asford#3101)
 <!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/)-->
 
-<!--  
+  
 # Top Repositories
 
 
 <a href="https://github.com/varad-comrad/speeding-python-in-10-steps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=varad-comrad&repo=speeding-python-in-10-steps&theme=react" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=varad-comrad&repo=speeding-python-in-10-steps&theme=react" />
 </a>
 <a href="https://github.com/varad-comrad/Biblioteca-CNU">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=varad-comrad&repo=Biblioteca-CNU&theme=react" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=varad-comrad&repo=Biblioteca-CNU&theme=react" />
 </a>
 
 <br />
@@ -176,6 +176,8 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+optional: hide=contribs,issues&
 
 
 <a href="https://twitter.com/anuraghazru">
