@@ -6,8 +6,7 @@
 
 <!--
 # 📊 Stats
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=luizgbraga&theme=react&hide_border=false&include_all_commits=false&count_private=false&hide=contribs,issues&show_icons=true&line_height=31&card_width=488px)
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=luizgbraga&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&line_height=31&card_width=296px)
+
 -->
 
 
@@ -119,7 +118,8 @@ Kubernetes
 
 
 # 📊 Stats
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=varad-comrad&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false" alt="Fabricio Asfora's github stats" height=180px /></a> <a href="https://github.com/varad-comrad/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varad-comrad&layout=compact&theme=react&hide_border=false" height=180px/></a> 
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=varad-comrad&theme=react&hide_border=false&include_all_commits=true&count_private=true&hide=contribs,issues&show_icons=true&line_height=31&card_width=488px)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=varad-comrad&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&line_height=31&card_width=296px)
 
 
 ## 🌐 Socials
@@ -128,7 +128,7 @@ Kubernetes
  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/#asford#3101)
 <!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/)-->
 
-
+<!--  
 # Top Repositories
 
 
@@ -142,7 +142,7 @@ Kubernetes
 <br />
 <br />
 
-
+-->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
