@@ -132,8 +132,8 @@ Kubernetes
 # Top Repositories
 
 
-<a href="https://github.com/varad-comrad/speeding-python-in-10-steps">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=varad-comrad&repo=speeding-python-in-10-steps&theme=react" />
+<a href="https://github.com/varad-comrad/estrutura-de-dados">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=varad-comrad&repo=estrutura-de-dados&theme=react" />
 </a>
 <a href="https://github.com/varad-comrad/Biblioteca-CNU">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=varad-comrad&repo=Biblioteca-CNU&theme=react" />
