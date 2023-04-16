@@ -1,27 +1,17 @@
+
+<!-- <p align="center"><a href="github.com/varad-comrad"><img width="80%" alt="Hello, I'm Fabricio. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+ -->
+
 <!--
+
+OBS: substituir href da msg de cima por https://varad-comrad.github.io
+
 # 💫 About Me
-👨🏻‍💻 I'm a computer engineering student at Instituto Militar de Engenharia.<br>📈 Currently, I'm automating tasks and developing softwares to perform digital marketing efforts<br>📓 Machine Learning enthusiast<br>💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)<br>
+👨🏻‍💻 I'm a computer engineering student at Instituto Militar de Engenharia.<br>📈 Currently, I'm automating tasks and developing softwares to perform digital marketing efforts<br>📓 Machine Learning enthusiast<br>"""❤️ I love writing Python, and building fun experiments on type-level""" <br>💬 Ask me about anything [here](https://github.com/varad-comrad/varad-comrad/issues)<br>
 -->
 
-
-<!--
-# 📊 Stats
-
--->
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
 
 
 <!--
@@ -122,7 +112,7 @@ Kubernetes
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=varad-comrad&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&line_height=31&card_width=296px)
 
 
-## 🌐 Socials
+# 🌐 Socials
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-asfora-74794a248) 
  [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabricio.asfora.001@gmail.com)
  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/#asford#3101)
@@ -155,11 +145,7 @@ Kubernetes
 </div> 
 
 
-
-
-<!-- <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
+<!--
 
 I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
