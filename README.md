@@ -37,6 +37,8 @@ Kubernetes
 
  # 💻 Personal Skills 
  
+ 
+ 
 ##  Front-end
 <div style="diplay: inline-block"><br>
 <img align="center" alt="HTML5" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -50,6 +52,9 @@ Kubernetes
 <!-- <img align="center" alt="Typescript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> -->
 
 </div>
+
+
+
 
 ## Back-end
 <div style="diplay: inline-block"><br>
@@ -67,10 +72,14 @@ Kubernetes
 
 </div>
 
+
+
+
 ## Database
 <div style="diplay: inline-block"><br>
 <img align="center" alt="MySQL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 <!-- <img align="center" alt="MariaDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg"> -->
+<!-- <img align="center" alt="Firebase" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg"> -->
 <!--  <img align="center" alt="SurrealDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> -->
 <img align="center" alt="SQLite" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
 <img align="center" alt="MongoDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
@@ -78,6 +87,9 @@ Kubernetes
 <img align="center" alt="PostgreSQL" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png">
 <!-- <img align="center" alt="graphql" height="55" width="55" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"> -->
 </div>
+
+
+
 
 ## Libraries 
 <div style="diplay: inline-block"><br>
@@ -99,6 +111,9 @@ Kubernetes
 <!-- <img align="center" alt="???" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg"> -->
 
 </div>
+  
+  
+  
   
 ## Others
 <div style="diplay: inline-block"><br>
