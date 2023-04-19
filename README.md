@@ -70,10 +70,11 @@ Kubernetes
 ## Database
 <div style="diplay: inline-block"><br>
 <img align="center" alt="MySQL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img align="center" alt="SQLite" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
 <img align="center" alt="MongoDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 <!-- <img align="center" alt="Oracle" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"> -->
-<!-- <img align="center" alt="PostgreSQL" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"> -->
-<!-- <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> -->
+<img align="center" alt="PostgreSQL" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png">
+<!-- <img align="center" alt="graphql" height="55" width="55" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"> -->
 </div>
 
 ## Libraries 
