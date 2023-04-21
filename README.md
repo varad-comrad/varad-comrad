@@ -28,6 +28,7 @@ Carbon
 Clojure
 GoLang
 Ruby
+Nim
 Typescript
 Next
 C# / .NET 
