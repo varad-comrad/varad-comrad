@@ -21,7 +21,9 @@ GraphQL
 
 <!-- ![Screenshot from 2023-05-09 18-33-12](https://github.com/varad-comrad/varad-comrad/assets/111001755/6c3f57f8-f899-427f-b000-98ec38df4aa4) -->
 <!-- <br> -->
-👨🏻‍💻 I'm a computer engineering student at Instituto Militar de Engenharia.<br>📈 Currently, I'm automating tasks and developing softwares to perform digital marketing efforts<br>📓 Machine Learning enthusiast<br>
+👨🏻‍💻 I'm a computer engineering student at Instituto Militar de Engenharia.
+<!-- <br>📈 Currently, I'm automating tasks and developing softwares to perform digital marketing efforts -->
+<br>📓 Machine Learning enthusiast<br>
 <!-- """❤️ I love writing Python, and building fun experiments on type-level""" <br>💼 Working as [freelancer](https://freelancer.com)<br>💬 Ask me about anything [here](https://github.com/varad-comrad/varad-comrad/issues)<br> -->
 
  # 💻 Personal Skills 
