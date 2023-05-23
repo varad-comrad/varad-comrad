@@ -31,7 +31,6 @@ GraphQL
 <img align="center" alt="HTML5" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="CSS3" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="JavaScript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" alt="Node-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="React-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <!-- <img align="center" alt="Vue-js" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png"> -->
 <img align="center" alt="Typescript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
@@ -43,6 +42,7 @@ GraphQL
 
 ## Back-end
 <div style="diplay: inline-block"><br>
+<img align="center" alt="Node-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="C" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
 <img align="center" alt="C++" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
 <img align="center" alt="flask" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png">
