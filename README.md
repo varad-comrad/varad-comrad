@@ -1,44 +1,31 @@
 
 <!-- <p align="center"><a href="github.com/varad-comrad"><img width="80%" alt="Hello, I'm Fabricio. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
- -->
-
-<!--
-
+<br>
 OBS: substituir href da msg de cima por https://varad-comrad.github.io
-
-# 💫 About Me
-👨🏻‍💻 I'm a computer engineering student at Instituto Militar de Engenharia.<br>📈 Currently, I'm automating tasks and developing softwares to perform digital marketing efforts<br>📓 Machine Learning enthusiast<br>"""❤️ I love writing Python, and building fun experiments on type-level""" <br>💼 Working as [freelancer](https://freelancer.com)<br>💬 Ask me about anything [here](https://github.com/varad-comrad/varad-comrad/issues)<br>
 -->
 
-
-
 <!--
-
 ## To learn
 
 Zig
 Elixir
 Carbon
 Clojure
-GoLang
 Typescript
 Next
-C# / .NET 
 GraphQL
-MariaDB
-Firebase
-SurrealDB
-
-
 -->
 
 
+# 💫 About Me
+
+<!-- ![Screenshot from 2023-05-09 18-33-12](https://github.com/varad-comrad/varad-comrad/assets/111001755/6c3f57f8-f899-427f-b000-98ec38df4aa4) -->
+<!-- <br> -->
+👨🏻‍💻 I'm a computer engineering student at Instituto Militar de Engenharia.<br>📈 Currently, I'm automating tasks and developing softwares to perform digital marketing efforts<br>📓 Machine Learning enthusiast<br>
+<!-- """❤️ I love writing Python, and building fun experiments on type-level""" <br>💼 Working as [freelancer](https://freelancer.com)<br>💬 Ask me about anything [here](https://github.com/varad-comrad/varad-comrad/issues)<br> -->
+
  # 💻 Personal Skills 
- 
- 
- 
+
 ##  Front-end
 <div style="diplay: inline-block"><br>
 <img align="center" alt="HTML5" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -98,7 +85,6 @@ SurrealDB
 <img align="center" alt="pytorch" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
 <img align="center" alt="opencv" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
 <!-- <img align="center" alt="YOLO" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yolov7/yolov7-original.svg"> -->
-
 <!-- <img align="center" alt="cython" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cython/cython-original.svg"> -->
 <!-- <img align="center" alt="scikit-learn" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg"> -->
 <!-- <img align="center" alt="NLTK" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg"> -->
@@ -170,8 +156,6 @@ Kubernetes
 
 
 <!--
-
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 **About me**
 
