@@ -89,6 +89,7 @@ GraphQL
 <!-- <img align="center" alt="YOLO" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yolov7/yolov7-original.svg"> -->
 <!-- <img align="center" alt="cython" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cython/cython-original.svg"> -->
 <!-- <img align="center" alt="scikit-learn" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg"> -->
+<!-- Polars -->
 <!-- <img align="center" alt="NLTK" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg"> -->
 
 </div>
@@ -97,13 +98,24 @@ GraphQL
 
 <!--
 ## Cloud
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 AWS
 Azure 
 
-## Others
+
+## Container
+
+Rancher
 Docker
 Kubernetes
+
+
+## Data Visualization
+
+Power BI
+Tableau
+
 -->
 
 
