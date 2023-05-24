@@ -22,9 +22,11 @@ GraphQL
 <!-- ![Screenshot from 2023-05-09 18-33-12](https://github.com/varad-comrad/varad-comrad/assets/111001755/6c3f57f8-f899-427f-b000-98ec38df4aa4) -->
 <!-- <br> -->
 👨🏻‍💻 I'm a computer engineering student at Instituto Militar de Engenharia.
+<!-- <br> 💼 Currently I'm working at-->
 <!-- <br>📈 Currently, I'm automating tasks and developing softwares to perform digital marketing efforts -->
 <br>📓 Machine Learning enthusiast<br>
-<!-- """❤️ I love writing Python, and building fun experiments on type-level""" <br>💼 Working as [freelancer](https://freelancer.com)<br>💬 Ask me about anything [here](https://github.com/varad-comrad/varad-comrad/issues)<br> -->
+<!--  📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub -->
+<!--<br>💬 Ask me about anything [here](https://github.com/varad-comrad/varad-comrad/issues)  -->
 
  # 💻 Personal Skills 
 
@@ -141,6 +143,8 @@ Tableau
  [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabricio.asfora.001@gmail.com)
  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/#asford#3101)
 <!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/)-->
+<!-- Twitter -->
+<!-- Kaggle? -->
 
   
 # Top Repositories
@@ -170,21 +174,8 @@ Tableau
 
 
 <!--
-
-**About me**
-
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
-
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
-
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
-
-
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-optional: hide=contribs,issues&
-
 
 <a href="https://twitter.com/anuraghazru">
   <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
