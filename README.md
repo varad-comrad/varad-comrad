@@ -14,16 +14,15 @@ Clojure
 Typescript
 Next
 GraphQL
+💼 
 -->
 
 
 # 💫 About Me
-
-<!-- ![Screenshot from 2023-05-09 18-33-12](https://github.com/varad-comrad/varad-comrad/assets/111001755/6c3f57f8-f899-427f-b000-98ec38df4aa4) -->
-<!-- <br> -->
+![Screenshot from 2023-05-25 10-29-37](https://github.com/varad-comrad/varad-comrad/assets/111001755/4946c710-3791-4fea-b7b8-23b7a7b8b130)
+<br>
 👨🏻‍💻 I'm a computer engineering student at Instituto Militar de Engenharia.
-<!-- <br> 💼 Currently I'm working at-->
-<!-- <br>📈 Currently, I'm automating tasks and developing softwares to perform digital marketing efforts -->
+<br>📈 I'm automating tasks and developing my skills working in data analysis projects
 <br>📓 Machine Learning enthusiast<br>
 <!--  📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub -->
 <!--<br>💬 Ask me about anything [here](https://github.com/varad-comrad/varad-comrad/issues)  -->
