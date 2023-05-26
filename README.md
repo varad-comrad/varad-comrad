@@ -19,10 +19,10 @@ GraphQL
 
 
 # 💫 About Me
-![Screenshot from 2023-05-25 10-29-37](https://github.com/varad-comrad/varad-comrad/assets/111001755/4946c710-3791-4fea-b7b8-23b7a7b8b130)
-<br>
-👨🏻‍💻 I'm a computer engineering student at Instituto Militar de Engenharia.
-<br>📈 I'm automating tasks and developing my skills working in data analysis projects
+<!-- ![Screenshot from 2023-05-25 10-29-37](https://github.com/varad-comrad/varad-comrad/assets/111001755/4946c710-3791-4fea-b7b8-23b7a7b8b130)
+<br> -->
+👨🏻‍💻 I'm a computer engineering student at Instituto Militar de Engenharia.<br>
+<br>📈 I'm automating tasks and developing my skills working in data analysis projects.<br>
 <br>📓 Machine Learning enthusiast
 <!--  📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub -->
 <br>💬 Ask me about anything [here](https://github.com/varad-comrad/varad-comrad/issues) 
