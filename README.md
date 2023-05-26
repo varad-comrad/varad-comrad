@@ -90,6 +90,7 @@ GraphQL
 <img align="center" alt="tensorflow" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
 <img align="center" alt="pytorch" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
 <img align="center" alt="opencv" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
+<!-- <img align="center" alt="PyArrow" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pyarrow/pyarrow-original.svg"> -->
 <!-- <img align="center" alt="YOLO" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yolov7/yolov7-original.svg"> -->
 <!-- <img align="center" alt="cython" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cython/cython-original.svg"> -->
 <!-- <img align="center" alt="scikit-learn" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg"> -->
