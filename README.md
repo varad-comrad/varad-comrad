@@ -23,9 +23,10 @@ GraphQL
 <br>
 👨🏻‍💻 I'm a computer engineering student at Instituto Militar de Engenharia.
 <br>📈 I'm automating tasks and developing my skills working in data analysis projects
-<br>📓 Machine Learning enthusiast<br>
+<br>📓 Machine Learning enthusiast
 <!--  📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub -->
-<!--<br>💬 Ask me about anything [here](https://github.com/varad-comrad/varad-comrad/issues)  -->
+<br>💬 Ask me about anything [here](https://github.com/varad-comrad/varad-comrad/issues) 
+
 
  # 💻 Personal Skills 
 
