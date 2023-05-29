@@ -6,14 +6,10 @@ OBS: substituir href da msg de cima por https://varad-comrad.github.io
 
 <!--
 ## To learn
-
-Zig
 Elixir
 Carbon
 Clojure
-Typescript
 Next
-GraphQL
 💼 
 -->
 
@@ -146,8 +142,8 @@ Tableau
  [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabricio.asfora.001@gmail.com)
  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/#asford#3101)
 <!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/)-->
-<!-- Twitter -->
 <!-- Kaggle? -->
+<!-- FreeCodeCamp -->
 
   
 # Top Repositories
