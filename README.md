@@ -13,6 +13,7 @@ projects:
 - new-programming-language
 - tensorflow-copy
 - better-SAS
+- Pydev
 
 
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/wervlad)
