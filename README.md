@@ -6,6 +6,15 @@ OBS: substituir href da msg de cima por https://varad-comrad.github.io
 
 <!--
 
+projects:
+- oxidizer
+- windows-x
+- linux-dev
+- new-programming-language
+- tensorflow-copy
+- better-SAS
+
+
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/wervlad)
 [![Clojure](https://img.shields.io/badge/clojure-black?style=for-the-badge&logo=clojure)](https://github.com/wervlad)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/wervlad)
