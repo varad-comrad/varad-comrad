@@ -6,6 +6,11 @@ OBS: substituir href da msg de cima por https://varad-comrad.github.io
 
 <!--
 
+orgs:
+- tutorials
+- stats
+- compiler/OS
+
 projects:
 - oxidizer
 - windows-x
@@ -14,6 +19,7 @@ projects:
 - tensorflow-copy
 - better-SAS
 - Pydev
+- Better PandasAI
 
 
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/wervlad)
