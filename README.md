@@ -12,14 +12,20 @@ orgs:
 - compiler/OS
 
 projects:
-- oxidizer
-- windows-x
-- linux-dev
-- new-programming-language
-- tensorflow-copy
-- better-SAS
+- oxidizer (compiler)
+- windows-x (compiler)
+- linux-dev (compiler)
+- new-programming-language (compiler)
+- tensorflow-copy (stats)
+- better-SAS (stats)
 - Pydev
-- Better PandasAI
+- Better PandasAI (stats)
+- EST
+- Kaggle solutions (pessoal + tutorial)
+- freecodecamp solutions (pessoal + tutorial)
+- generate problems (tutorial)
+- CTFd (tutorial)
+- Deep Learning Notebook (pessoal + tutorial)
 
 
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/wervlad)
