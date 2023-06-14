@@ -7,7 +7,7 @@ OBS: substituir href da msg de cima por https://varad-comrad.github.io
 <!--
 
 orgs:
-- tutorials
+- tutorials (Skill Craft?)
 - stats
 - compiler/OS
 
