@@ -8,24 +8,41 @@ OBS: substituir href da msg de cima por https://varad-comrad.github.io
 
 orgs:
 - tutorials (Skill Craft?)
-- stats
-- compiler/OS
+- stats + compiler/OS
 
 projects:
-- oxidizer (compiler)
-- windows-x (compiler)
-- linux-dev (compiler)
-- new-programming-language (compiler)
-- tensorflow-copy (stats)
-- better-SAS (stats)
-- Pydev
-- Better PandasAI (stats)
-- EST
-- Kaggle solutions (pessoal + tutorial)
-- freecodecamp solutions (pessoal + tutorial)
-- generate problems (tutorial)
-- CTFd (tutorial)
-- Deep Learning Notebook (pessoal + tutorial)
+- oxidizer (compiler) *hiatus*
+- windows-x (compiler) *hiatus*
+- linux-dev (compiler) *hiatus*
+- new-programming-language (compiler) *hiatus*
+- challenge generator (tutorial) *hiatus*
+- CTFd (tutorial) *hiatus*
+9  - tensorflow-copy (personal)
+10 - better-SAS (stats)
+8  - Pydev
+7  - Better PandasAI (stats)
+5  - EST
+4  - Kaggle solutions (personal + tutorial)
+6  - freecodecamp solutions (personal + tutorial)
+3  - Deep Learning Notebook (personal + tutorial)
+2  - VJudge (personal)
+1  - rustlings (personal + tutorial)
+
+for oxidizer and prog language, study:
+- nim
+- zig
+- lobster
+- clojure
+- elixir
+- mojo
+- ocaml
+- golang
+- rust
+
+for windows-x and linux-dev, study:
+- rust
+- arch linux
+- arm
 
 
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/wervlad)
