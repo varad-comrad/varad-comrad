@@ -39,8 +39,9 @@ Next
 
 
  # 💻 Personal Skills 
-
-##  Front-end
+ 
+## Full-Stack Developer
+###  Front-end
 <div style="diplay: inline-block"><br>
 <img align="center" alt="HTML5" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="CSS3" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -49,35 +50,39 @@ Next
 <!-- <img align="center" alt="Vue-js" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png"> -->
 <img align="center" alt="Typescript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 <!-- <img align="center" alt=".Net" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png"> -->
+
 </div>
 
-
-
-
-## Back-end
+### Back-end
 <div style="diplay: inline-block"><br>
 <img align="center" alt="Node-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Java" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img align="center" alt="C" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
-<img align="center" alt="C++" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
 <img align="center" alt="flask" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png">
 <img align="center" alt="django" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <!-- <img align="center" alt="Go" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png"> -->
 <!-- <img align="center" alt="C#" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> -->
 
+</div>
+
+## Software Developer
+### Languages
+<div style="diplay: inline-block"><br>
+<img align="center" alt="C" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
+<img align="center" alt="C++" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
 <img align="center" alt="Rust" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png">
 
 </div>
 
 ## Data Science
-
+### Languages
 <div style="diplay: inline-block"><br>
 <img align="center" alt="Python" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
  <img align="center" alt="R" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
 <img align="center" alt="Julia" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg">
+
 </div>
 
-## Database
+### Database
 <div style="diplay: inline-block"><br>
 <img align="center" alt="MySQL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 <img align="center" alt="SQLite" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
@@ -88,12 +93,10 @@ Next
 <!--  <img align="center" alt="MariaDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg"> -->
 <!-- <img align="center" alt="Firebase" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg"> -->
 <!--  <img align="center" alt="SurrealDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/surrealdb/surrealdb-original.svg"> -->
+
 </div>
 
-
-
-
-## Libraries 
+### Libraries 
 <div style="diplay: inline-block"><br>
 <img align="center" alt="numpy" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
 <img align="center" alt="pandas" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
