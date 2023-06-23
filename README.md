@@ -34,7 +34,7 @@ Next
 <img align="center" alt="React-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <!-- <img align="center" alt="Vue-js" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png"> -->
 <img align="center" alt="Typescript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-<!-- <img align="center" alt=".Net" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png"> -->
+<img align="center" alt=".Net" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png">
 
 </div>
 
