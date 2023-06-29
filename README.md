@@ -6,10 +6,13 @@
 
 <!--
 ## To learn
-Elixir
+Golang
 Carbon
-Clojure
+Zig
 Next
+Vue
+Express
+
 💼 
 -->
 
@@ -105,7 +108,8 @@ Next
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 AWS
 Azure 
-Google Clouds
+Google Cloud
+Alibaba 
 
 
 ## Container
@@ -120,6 +124,13 @@ Kubernetes
 Power BI
 Tableau
 
+## Operating Systems
+
+Kali Linux
+Arch Linux
+BlackArch
+Windows
+
 -->
 
 
@@ -128,6 +139,7 @@ Tableau
 <div style="diplay: inline-block"><br>
 <img align="center" alt="Arduino" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 <img align="center" alt="Latex" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
+<!-- Markdown -->
 </div>
 
 
