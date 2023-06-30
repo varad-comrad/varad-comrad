@@ -51,7 +51,7 @@ Express
 
 </div>
 
-## Software Developer
+## Software/System Developer
 ### Languages
 <div style="diplay: inline-block"><br>
 <img align="center" alt="C" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
