@@ -36,7 +36,7 @@ Express
 <img align="center" alt="React-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <!-- <img align="center" alt="Vue-js" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png"> -->
 <img align="center" alt="Typescript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-<img align="center" alt=".Net" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png">
+<!-- <img align="center" alt=".Net" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png"> -->
 
 </div>
 
@@ -47,7 +47,7 @@ Express
 <img align="center" alt="flask" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png">
 <img align="center" alt="django" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <!-- <img align="center" alt="Go" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png"> -->
-<img align="center" alt="C#" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+<!-- <img align="center" alt="C#" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> -->
 
 </div>
 
@@ -75,8 +75,8 @@ Express
 <img align="center" alt="SQLite" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
 <img align="center" alt="MongoDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 <img align="center" alt="PostgreSQL" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png">
-<img align="center" alt="CouchDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg">
-<img align="center" alt="Redis" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
+<!-- <img align="center" alt="CouchDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg"> -->
+<!-- <img align="center" alt="Redis" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"> -->
 <!--  <img align="center" alt="MariaDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg"> -->
 <!-- <img align="center" alt="Firebase" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg"> -->
 <!--  <img align="center" alt="SurrealDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/surrealdb/surrealdb-original.svg"> -->
