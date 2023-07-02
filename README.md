@@ -18,12 +18,15 @@ Express
 
 
 # 💫 About Me
-👨🏻‍💻 I'm a computer engineering student at Instituto Militar de Engenharia.<br>
-<br>📈 I'm automating tasks and developing my skills working in data analysis projects.<br>
-<br>📓 Machine Learning enthusiast
+👨🏻‍💻 I'm a computer engineering student at Instituto Militar de Engenharia.
+
+📈 I'm automating tasks and developing my skills working in data analysis projects.
+
+📓 Machine Learning enthusiast
 <!--  📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub -->
-<!-- <br> You can see my portfolio [here](https://varad-comrad.github.io) -->
-<br>💬 Ask me about anything [here](https://github.com/varad-comrad/varad-comrad/issues) 
+<!-- You can see my portfolio [here](https://varad-comrad.github.io) -->
+
+💬 Ask me about anything [here](https://github.com/varad-comrad/varad-comrad/issues) 
 
 
  # 💻 Personal Skills 
@@ -86,18 +89,38 @@ Express
 
 ### Libraries 
 <div style="diplay: inline-block"><br>
-<img align="center" alt="numpy" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-<img align="center" alt="pandas" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-<img align="center" alt="plotly" height="55" width="55" src="https://images.plot.ly/logo/new-branding/plotly-logomark.png">
-<img align="center" alt="tensorflow" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
-<img align="center" alt="pytorch" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
-<img align="center" alt="opencv" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
+<img align="center" alt="Numpy" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+<img align="center" alt="Pandas" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+<img align="center" alt="Plotly" height="55" width="55" src="https://images.plot.ly/logo/new-branding/plotly-logomark.png">
+<img align="center" alt="Tensorflow" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+<img align="center" alt="Pytorch" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
+<img align="center" alt="OpenCV" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
 <!-- <img align="center" alt="PyArrow" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pyarrow/pyarrow-original.svg"> -->
 <!-- <img align="center" alt="YOLO" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yolov7/yolov7-original.svg"> -->
 <!-- <img align="center" alt="cython" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cython/cython-original.svg"> -->
 <!-- <img align="center" alt="scikit-learn" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg"> -->
 <!-- Polars -->
 <!-- <img align="center" alt="NLTK" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg"> -->
+<!--
+ PyArrow
+ Matplotlib
+ SqlAlchemy
+ Yolo
+ Cython
+ NLTK
+ StatsModels
+ Scipy
+ Scikit-Learn
+ MLFlow
+ Kafka
+ Pyspark
+ Polars
+ Pyro
+ Seaborn
+ Requests
+ BeatifulSoup
+ JAX
+ -->
 
 </div>
   
@@ -178,6 +201,8 @@ Windows
 # Organizations:
 - Skill Craft
 - Nexus Frameworks
+- RustPython (possibly)
+- Asahi Linux (possibly)
 -->
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
