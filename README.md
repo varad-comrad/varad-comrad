@@ -120,9 +120,13 @@ Express
  BeatifulSoup
  JAX
  -->
-
 </div>
-  
+
+### Data Visualization
+<div style="diplay: inline-block"><br>
+<img alt="Power BI" align="center" height="55" width="55" src="icons8-power-bi-50.png">
+<img alt="Tableau" align="center" height="55" width="55" src="icons8-tableau-software-48.png">
+</div>  
   
 
 ## DevOps
@@ -132,9 +136,7 @@ Express
 <img align="center" alt="AWS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="center" alt="Azure" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img align="center" alt="Google Cloud" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />                 
- <!--                    
-Alibaba 
--->
+ <!-- Alibaba -->
  
 ### Container
 <div style="diplay: inline-block"><br>
@@ -142,14 +144,6 @@ Alibaba
 <img align="center" alt="Kubernetes" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 <!-- Rancher -->   
 </div>
-
-<!--
-## Data Visualization
-
-Power BI
-Tableau
-
--->
 
 ## Operating Systems
 <div style="diplay: inline-block"><br>
