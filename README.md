@@ -157,12 +157,10 @@ Tableau
 <img alt="Ubuntu" align="center" height="55" width="55" src="5367252_linux_operating system_ubuntu_icon.png">
 <img alt="Arch Linux" align="center" height="55" width="55" src="distributorlogoarchlinux_103805.png">
 <img alt="Debian" align="center" height="55" width="55" src="distributorlogodebian_93598.png">
+<img alt="Kali Linux" align="center" height="55" width="55" src="icons8-kali-linux-100.png">
 <img alt="nixOS" height="55" align="center" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" />
+<!-- BlackArch -->
 </div>
-<!--
-Kali Linux
-BlackArch
--->
   
 ## Others
 <div style="diplay: inline-block"><br>
