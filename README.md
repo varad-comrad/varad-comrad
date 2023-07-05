@@ -149,15 +149,17 @@ Alibaba
 Power BI
 Tableau
 
-## Operating Systems
+-->
 
+## Operating Systems
+<img alt="Windows" align="center" height="55" width="55" src="">
+<!--
 Kali Linux
 Arch Linux
 BlackArch
 Windows
-<img alt="nixOS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" />
 
-
+<img alt="nixOS" height="55" align="center" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" />
 -->
 
 
