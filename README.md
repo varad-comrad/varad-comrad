@@ -141,7 +141,7 @@ Alibaba
 <img align="center" alt="Docker" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="center" alt="Kubernetes" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 <!-- Rancher -->   
-
+</div>
 
 <!--
 ## Data Visualization
@@ -152,17 +152,17 @@ Tableau
 -->
 
 ## Operating Systems
-<img alt="Windows" align="center" height="55" width="55" src="">
+<div style="diplay: inline-block"><br>
+<img alt="Windows" align="center" height="55" width="55" src="5882175_logo_operating_system_windows_icon.png">
+<img alt="Ubuntu" align="center" height="55" width="55" src="5367252_linux_operating system_ubuntu_icon.png">
+<img alt="Arch Linux" align="center" height="55" width="55" src="distributorlogoarchlinux_103805.png">
+<img alt="Debian" align="center" height="55" width="55" src="distributorlogodebian_93598.png">
+<img alt="nixOS" height="55" align="center" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" />
+</div>
 <!--
 Kali Linux
-Arch Linux
 BlackArch
-Windows
-
-<img alt="nixOS" height="55" align="center" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" />
 -->
-
-
   
 ## Others
 <div style="diplay: inline-block"><br>
@@ -171,9 +171,6 @@ Windows
 <img align="center" alt="markdown" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
           
 </div>
-
-
-
 
 
 # 📊 Stats
@@ -209,6 +206,7 @@ Windows
 - Nexus Frameworks
 - RustPython (possibly)
 - Asahi Linux (possibly)
+- Zig (possibly)
 -->
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
