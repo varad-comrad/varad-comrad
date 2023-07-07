@@ -151,8 +151,9 @@ Express
 <img alt="Arch Linux" align="center" height="55" width="55" src="distributorlogoarchlinux_103805.png">
 <img alt="Debian" align="center" height="55" width="55" src="distributorlogodebian_93598.png">
 <img alt="Kali Linux" align="center" height="55" width="55" src="icons8-kali-linux-100.png">
+<img alt="BlackArch" align="center" height="55" width="55" src="pngaaa.com-3063500.png">
+
 <img alt="nixOS" height="55" align="center" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" />
-<!-- BlackArch -->
 </div>
   
 ## Others
