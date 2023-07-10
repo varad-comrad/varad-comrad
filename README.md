@@ -97,7 +97,8 @@ Express
 <img align="center" alt="OpenCV" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
 <!-- <img align="center" alt="PyArrow" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pyarrow/pyarrow-original.svg"> -->
 <!-- <img align="center" alt="YOLO" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yolov7/yolov7-original.svg"> -->
-<!-- <img align="center" alt="cython" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cython/cython-original.svg"> -->
+<img align="center" alt="cython" height="55" width="55" src="file_type_cython_icon_130653.png">
+ <img align="center" alt="sqlalchemy" height="55" width="55" src="SQLAlchemy.png">
 <!-- <img align="center" alt="scikit-learn" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg"> -->
 <!-- Polars -->
 <!-- <img align="center" alt="NLTK" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg">
