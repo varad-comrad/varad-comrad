@@ -99,7 +99,7 @@ Express
 <!-- <img align="center" alt="YOLO" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yolov7/yolov7-original.svg"> -->
 <img align="center" alt="cython" height="55" width="55" src="libs/file_type_cython_icon_130653.png">
  <img align="center" alt="sqlalchemy" height="55" width="55" src="libs/SQLAlchemy.png">
-<!-- <img align="center" alt="scikit-learn" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg"> -->
+<img align="center" alt="scikit-learn" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
 <!-- Polars -->
 <!-- <img align="center" alt="NLTK" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg">
  PyArrow
