@@ -23,7 +23,7 @@ Express
 📈 I'm automating tasks and developing my skills working in data analysis projects.
 
 📓 Machine Learning enthusiast
-<!--  📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub -->
+<!--  📈  -->
 <!-- You can see my portfolio [here](https://varad-comrad.github.io) -->
 
 💬 Ask me about anything [here](https://github.com/varad-comrad/varad-comrad/issues) 
@@ -109,7 +109,6 @@ Express
  Scipy
  MLFlow
  Kafka
- Pyspark
  Polars
  Pyro
  Seaborn
