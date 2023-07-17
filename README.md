@@ -92,11 +92,12 @@ Express
 <img align="center" alt="Numpy" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
 <img align="center" alt="Pandas" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
 <img align="center" alt="Matplotlib" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
-<img align="center" alt="Plotly" height="55" width="55" src="https://images.plot.ly/logo/new-branding/plotly-logomark.png">
-<img align="center" alt="Tensorflow" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></br> </br>
+<img align="center" alt="Matplotlib" height="55" width="55" src="scipy_logo_icon_248581.png"> 
+<img align="center" alt="Matplotlib" height="55" width="55" src="apache_spark_logo_icon_170561.png">  
+<img align="center" alt="Plotly" height="55" width="55" src="https://images.plot.ly/logo/new-branding/plotly-logomark.png"> </br> </br>
+<img align="center" alt="Tensorflow" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
 <img align="center" alt="Pytorch" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
 <img align="center" alt="OpenCV" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
-<!-- <img align="center" alt="PyArrow" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pyarrow/pyarrow-original.svg"> -->
 <img align="center" alt="cython" height="55" width="55" src="libs/file_type_cython_icon_130653.png">
 <img align="center" alt="sqlalchemy" height="55" width="55" src="libs/SQLAlchemy.png">
 <img align="center" alt="scikit-learn" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
@@ -106,7 +107,6 @@ Express
  YOLO
  NLTK
  StatsModels
- Scipy
  MLFlow
  Kafka
  Polars
