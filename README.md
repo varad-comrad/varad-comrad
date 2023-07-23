@@ -120,7 +120,7 @@ Express
 
 ### Data Visualization
 <div style="diplay: inline-block"><br>
-<img alt="Power BI" align="center" height="55" width="55" src="dasoft/icons8-power-bi-50.png">
+<!-- <img alt="Power BI" align="center" height="55" width="55" src="dasoft/icons8-power-bi-50.png"> -->
 <img alt="Tableau" align="center" height="55" width="55" src="dasoft/icons8-tableau-software-48.png">
 </div>  
   
@@ -136,7 +136,7 @@ Express
 ### Container
 <div style="diplay: inline-block"><br>
 <img align="center" alt="Docker" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="center" alt="Kubernetes" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+<!-- <img align="center" alt="Kubernetes" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /> -->
 <!-- Rancher -->   
 </div>
 
@@ -144,12 +144,11 @@ Express
 <div style="diplay: inline-block"><br>
 <img alt="Windows" align="center" height="55" width="55" src="distros/5882175_logo_operating_system_windows_icon.png">
 <img alt="Ubuntu" align="center" height="55" width="55" src="distros/5367252_linux_operating system_ubuntu_icon.png">
-<img alt="Arch Linux" align="center" height="55" width="55" src="distros/distributorlogoarchlinux_103805.png">
+<!-- <img alt="Arch Linux" align="center" height="55" width="55" src="distros/distributorlogoarchlinux_103805.png"> -->
 <img alt="Debian" align="center" height="55" width="55" src="distros/distributorlogodebian_93598.png">
 <img alt="Kali Linux" align="center" height="55" width="55" src="distros/icons8-kali-linux-100.png">
-<img alt="BlackArch" align="center" height="55" width="55" src="distros/pngaaa.com-3063500.png">
-
-<img alt="nixOS" height="55" align="center" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" />
+<!-- <img alt="BlackArch" align="center" height="55" width="55" src="distros/pngaaa.com-3063500.png"> -->
+<!-- <img alt="nixOS" height="55" align="center" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" /> -->
 </div>
   
 ## Others
