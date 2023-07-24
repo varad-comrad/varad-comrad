@@ -49,9 +49,11 @@ Express
 ### Back-end
 <div style="diplay: inline-block"><br>
 <img align="center" alt="Node-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<!-- <img align="center" alt="Deno" height="55" width="55" src="libs/deno.svg"> -->
 <img align="center" alt="Java" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="center" alt="flask" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png">
 <img align="center" alt="django" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+<!-- <img align="center" alt="FastAPI" height="55" width="55" src="libs/fastapi.svg">   -->
 <!-- <img align="center" alt="Golang" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /> -->
 <!-- <img align="center" alt="C#" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> -->
 
@@ -94,8 +96,11 @@ Express
 <img align="center" alt="Numpy" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
 <img align="center" alt="Pandas" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
 <img align="center" alt="Matplotlib" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
-<img align="center" alt="Matplotlib" height="55" width="55" src="scipy_logo_icon_248581.png"> 
-<img align="center" alt="Matplotlib" height="55" width="55" src="apache_spark_logo_icon_170561.png">  
+<img align="center" alt="Scipy" height="55" width="55" src="libs/scipy_logo_icon_248581.png"> 
+<!-- <img align="center" alt="Selenium" height="55" width="55" src="libs/selenium.svg">  -->
+<img align="center" alt="Apache Spark" height="55" width="55" src="libs/apache_spark_logo_icon_170561.png">  
+<!-- <img align="center" alt="Apache Kafka" height="55" width="55" src="libs/apache_kafka_icon_138937.svg">   -->
+<!-- <img align="center" alt="MLFlow" height="55" width="55" src="libs/MLflow-Logo.svg">   -->
 <img align="center" alt="Plotly" height="55" width="55" src="https://images.plot.ly/logo/new-branding/plotly-logomark.png"> </br> </br>
 <img align="center" alt="Tensorflow" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
 <img align="center" alt="Pytorch" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
@@ -103,17 +108,14 @@ Express
 <img align="center" alt="cython" height="55" width="55" src="libs/file_type_cython_icon_130653.png">
 <img align="center" alt="sqlalchemy" height="55" width="55" src="libs/SQLAlchemy.png">
 <img align="center" alt="scikit-learn" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
-<!-- Polars -->
-<!-- <img align="center" alt="NLTK" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg">
+<!-- 
+ Polars
+ NLTK
  PyArrow
  YOLO
- NLTK
  StatsModels
- MLFlow
- Kafka
  Polars
  Pyro
- Seaborn
  Requests
  BeatifulSoup
  JAX
