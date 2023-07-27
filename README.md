@@ -189,7 +189,6 @@ Express
 <!-- 
 # Organizations:
 - Skill Craft
-- Nexus Frameworks
 - RustPython (possibly)
 - Asahi Linux (possibly)
 - Zig (possibly)
@@ -209,5 +208,4 @@ Express
 
 <!--
 <img alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img alt="Apache Kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
 -->
