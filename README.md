@@ -18,8 +18,8 @@ Express
 📈 I'm automating tasks and developing my skills working in data analysis projects.
 
 📓 Machine Learning enthusiast
-<!--  📈  -->
-<!-- You can see my portfolio [here](https://varad-comrad.github.io) -->
+
+<!-- 📈  You can see my portfolio [here](https://varad-comrad.github.io) -->
 
 💬 Ask me about anything [here](https://github.com/varad-comrad/varad-comrad/issues) 
 
@@ -97,22 +97,21 @@ Express
 <img align="center" alt="Plotly" height="55" width="55" src="https://images.plot.ly/logo/new-branding/plotly-logomark.png"> </br> </br>
 <img align="center" alt="Tensorflow" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
 <img align="center" alt="Pytorch" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
+<img align="center" alt="Keras" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">
 <img align="center" alt="OpenCV" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
-<img align="center" alt="cython" height="55" width="55" src="libs/file_type_cython_icon_130653.png">
+<img align="center" alt="Cython" height="55" width="55" src="libs/file_type_cython_icon_130653.png">
 <img align="center" alt="sqlalchemy" height="55" width="55" src="libs/SQLAlchemy.png">
-<img align="center" alt="scikit-learn" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
+<img align="center" alt="Scikit-learn" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
 <!-- 
  Polars
  NLTK
  PyArrow
  YOLO
  StatsModels
- Polars
  Pyro
  Requests
  BeatifulSoup
  JAX
- Keras
  Gymnasium
  -->
 </div>
@@ -155,7 +154,7 @@ Express
 <img align="center" alt="Arduino" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 <img align="center" alt="Latex" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
 <img align="center" alt="markdown" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-          
+<!-- <img alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> -->
 </div>
 
 
@@ -204,8 +203,3 @@ Express
   <img align="center" alt="MySQL" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
 </div> 
-
-
-<!--
-<img alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
--->
