@@ -11,7 +11,6 @@ Express
 💼 
 -->
 
-
 # 💫 About Me
 👨🏻‍💻 I'm a computer engineering student at Instituto Militar de Engenharia.
 
@@ -135,7 +134,7 @@ Express
 <div style="diplay: inline-block"><br>
 <img align="center" alt="Docker" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <!-- <img align="center" alt="Kubernetes" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /> -->
-<!-- Rancher -->   
+<!-- <img align="center" alt="Rancher" height="55" width="55" src="rancher.svg" /> -->   
 </div>
 
 ## Operating Systems
