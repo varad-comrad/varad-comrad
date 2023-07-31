@@ -1,6 +1,7 @@
 <!--
 ## To learn
 Golang
+Nim
 C#
 Haskell
 Zig
