@@ -1,11 +1,11 @@
 <!--
 ## To learn
 Golang
-Nim
 C#
-Haskell
 Zig
+Nim
 Carbon
+Haskell
 Next
 Vue
 Express
