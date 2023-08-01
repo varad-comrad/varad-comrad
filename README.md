@@ -106,6 +106,7 @@ Express
 <img align="center" alt="sqlalchemy" height="55" width="55" src="libs/SQLAlchemy.png">
 <!-- 
  NLTK
+ Airflow
  PyArrow
  YOLO
  StatsModels
