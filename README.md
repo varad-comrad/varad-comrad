@@ -2,6 +2,7 @@
 ## To learn
 Golang
 C#
+Kotlin
 Zig
 Nim
 Carbon
@@ -10,6 +11,13 @@ Next
 Vue
 Express
 💼 
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+                                        
 -->
 
 # 💫 About Me
