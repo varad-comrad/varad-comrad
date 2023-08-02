@@ -41,14 +41,14 @@ Express
 
 ### Back-end
 <div style="diplay: inline-block"><br>
-<img align="center" alt="Node-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-<!-- <img align="center" alt="Deno" height="55" width="55" src="libs/deno.svg"> -->
 <img align="center" alt="Java" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<!-- <img align="center" alt="Deno" height="55" width="55" src="libs/deno.svg"> -->
+<!-- <img align="center" alt="Golang" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /> -->
+<!-- <img align="center" alt="C#" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> -->
+<img align="center" alt="Node-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="flask" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png">
 <img align="center" alt="django" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <!-- <img align="center" alt="FastAPI" height="55" width="55" src="libs/fastapi.svg">   -->
-<!-- <img align="center" alt="Golang" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /> -->
-<!-- <img align="center" alt="C#" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> -->
 
 </div>
 
@@ -58,6 +58,8 @@ Express
 <img align="center" alt="C" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
 <img align="center" alt="C++" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
 <img align="center" alt="Rust" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png">
+<!--  Zig -->
+<!-- Carbon -->
 
 </div>
 
@@ -67,6 +69,7 @@ Express
 <img align="center" alt="Python" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
  <img align="center" alt="R" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
 <!-- <img align="center" alt="Julia" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg"> -->
+<!-- Nim -->
 
 </div>
 
@@ -98,6 +101,7 @@ Express
 <!-- <img align="center" alt="Selenium" height="55" width="55" src="libs/selenium.svg">  -->
 <img align="center" alt="Scikit-learn" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
 <!-- <img align="center" alt="MLFlow" height="55" width="55" src="libs/MLflow-Logo.svg">   -->
+<!-- <img align="center" alt="Apache Airflow" height="55" width="55" src="libs/MLflow-Logo.svg">   -->
 <img align="center" alt="Tensorflow" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
 <img align="center" alt="Pytorch" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
 <img align="center" alt="Keras" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">
