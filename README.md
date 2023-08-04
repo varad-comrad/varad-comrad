@@ -74,6 +74,7 @@ Haskell
  <img align="center" alt="R" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
 <!-- <img align="center" alt="Julia" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg"> -->
 <!-- <img align="center" alt="Nim" height="55" width="55" src="langs/file-type-nim.svg"> -->
+<!-- VBA -->
 
 </div>
 
@@ -148,7 +149,7 @@ Haskell
 <!-- <img align="center" alt="Rancher" height="55" width="55" src="devops/rancher.svg" />    -->
 </div>
 
-## Operating Systems
+### Operating Systems
 <div style="diplay: inline-block"><br>
 <img alt="Windows" align="center" height="55" width="55" src="distros/5882175_logo_operating_system_windows_icon.png">
 <img alt="Ubuntu" align="center" height="55" width="55" src="distros/5367252_linux_operating system_ubuntu_icon.png">
@@ -159,11 +160,10 @@ Haskell
 <!-- <img alt="nixOS" height="55" align="center" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" /> -->
 </div>
 
-## Scripting/Shell Languages
+### Scripting/Shell Languages
 <div style="diplay: inline-block"><br>
 <img alt="bash" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 <!-- <img alt="PowerShell" height="55" width="55" src="langs/icons8-powershell.svg"/> -->
-<!-- VBA -->
 </div>
   
 ## Others
