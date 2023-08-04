@@ -74,6 +74,7 @@ Haskell
  <img align="center" alt="R" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
 <!-- <img align="center" alt="Julia" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg"> -->
 <!-- <img align="center" alt="Nim" height="55" width="55" src="langs/file-type-nim.svg"> -->
+<!-- VBA -->
 
 </div>
 
@@ -111,7 +112,7 @@ Haskell
 <img align="center" alt="Keras" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">
 <img align="center" alt="OpenCV" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
 <img align="center" alt="Cython" height="55" width="55" src="libs/file_type_cython_icon_130653.png">
-<img align="center" alt="sqlalchemy" height="55" width="55" src="libs/SQLAlchemy.png">
+<img align="center" alt="SqlAlchemy" height="55" width="55" src="libs/SQLAlchemy.png">
 <!-- 
  NLTK
  PyArrow
@@ -158,13 +159,18 @@ Haskell
 <!-- <img alt="BlackArch" align="center" height="55" width="55" src="distros/pngaaa.com-3063500.png"> -->
 <!-- <img alt="nixOS" height="55" align="center" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" /> -->
 </div>
+
+## Shell Languages
+<div style="diplay: inline-block"><br>
+<img alt="bash" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+<img alt="PowerShell" height="55" width="55" src="langs/icons8-powershell.svg"/>
+</div>
   
 ## Others
 <div style="diplay: inline-block"><br>
 <img align="center" alt="Arduino" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 <img align="center" alt="Latex" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
 <img align="center" alt="markdown" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-<!-- <img alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> -->
 </div>
 
 
