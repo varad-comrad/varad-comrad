@@ -9,8 +9,7 @@ Nim
 Next
 Vue
 Express
-Haskell
-💼         
+Haskell         
 -->
 
 # 💫 About Me
@@ -20,7 +19,7 @@ Haskell
 
 📓 Machine Learning enthusiast
 
-<!-- 📈  You can see my portfolio [here](https://varad-comrad.github.io) -->
+<!-- 💼  You can see my portfolio [here](https://varad-comrad.github.io) -->
 
 💬 Ask me about anything [here](https://github.com/varad-comrad/varad-comrad/issues) 
 
