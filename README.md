@@ -177,8 +177,7 @@ Haskell
 # 📊 Stats
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=varad-comrad&theme=react&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=21&card_width=288px)
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=varad-comrad&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact&line_height=31&card_width=296px)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=varad-comrad&theme=react&include_all_commits=true&count_private=true"/>
-
+<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=varad-comrad&theme=react&include_all_commits=true&count_private=true"/>-->
 
 # 🌐 Socials
 
