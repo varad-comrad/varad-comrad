@@ -19,6 +19,7 @@ Haskell
 
 📓 Machine Learning enthusiast
 
+<!-- Areas of interest: Neural Networks, optimization, Big Data, Operating Systems -->
 <!-- 💼  You can see my portfolio [here](https://varad-comrad.github.io) -->
 
 💬 Ask me about anything [here](https://github.com/varad-comrad/varad-comrad/issues) 
