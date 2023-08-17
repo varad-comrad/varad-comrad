@@ -15,7 +15,7 @@ Haskell
 # 💫 About Me
 👨🏻‍💻 I'm a computer engineering student at Instituto Militar de Engenharia.
 
-💼 Currently I'm developing [Workflow project](https://github.com/varad-comrad/Workflow) and developing skills in Neural Networks.
+💼 Currently I'm developing [Workflow project](https://github.com/varad-comrad/Workflow) and studying Neural Networks.
 
 <!-- 📓 --> 
 
