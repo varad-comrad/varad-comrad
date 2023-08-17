@@ -15,11 +15,11 @@ Haskell
 # 💫 About Me
 👨🏻‍💻 I'm a computer engineering student at Instituto Militar de Engenharia.
 
-📈 I'm automating tasks and developing my skills working in data analysis projects.
+💼 Currently I'm developing [Workflow project](https://github.com/varad-comrad/Workflow) and developing skills in Neural Networks.
 
-📓 Machine Learning enthusiast
+<!-- 📓 --> 
 
-<!-- Areas of interest: Neural Networks, optimization, Big Data, Operating Systems -->
+📈 My areas of interest are Neural Networks, Optimization, Big Data and Operating Systems
 <!-- 💼  You can see my portfolio [here](https://varad-comrad.github.io) -->
 
 💬 Ask me about anything [here](https://github.com/varad-comrad/varad-comrad/issues) 
