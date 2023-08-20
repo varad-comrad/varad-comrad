@@ -17,10 +17,8 @@ Haskell
 
 💼 Currently I'm developing [Workflow project](https://github.com/varad-comrad/Workflow) and studying Neural Networks.
 
-<!-- 📓 --> 
-
 📈 My areas of interest are Neural Networks, Optimization, Big Data and Operating Systems
-<!-- 💼  You can see my portfolio [here](https://varad-comrad.github.io) -->
+<!-- 📓  You can see my portfolio [here](https://varad-comrad.github.io) -->
 
 💬 Ask me about anything [here](https://github.com/varad-comrad/varad-comrad/issues) 
 
@@ -109,7 +107,7 @@ Haskell
 <img align="center" alt="Scikit-learn" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
 <!-- <img align="center" alt="MLFlow" height="55" width="55" src="libs/MLflow-Logo.svg">   -->
 <img align="center" alt="Tensorflow" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
-<!-- <img align="center" alt="Pytorch" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"> -->
+<img align="center" alt="Pytorch" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
 <img align="center" alt="Keras" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">
 <img align="center" alt="OpenCV" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
 <img align="center" alt="Cython" height="55" width="55" src="libs/file_type_cython_icon_130653.png">
@@ -139,10 +137,11 @@ Haskell
 
 ### Cloud
 <div style="diplay: inline-block"><br>
-<img align="center" alt="AWS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-<img align="center" alt="Azure" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<img align="center" alt="Google Cloud" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />                
- 
+<!-- <img align="center" alt="AWS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /> -->
+<!-- <img align="center" alt="Azure" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /> -->
+<!-- <img align="center" alt="Google Cloud" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /> -->
+</div>
+
 ### Container
 <div style="diplay: inline-block"><br>
 <img align="center" alt="Docker" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
@@ -158,7 +157,7 @@ Haskell
 <img alt="Debian" align="center" height="55" width="55" src="distros/distributorlogodebian_93598.png">
 <img alt="Kali Linux" align="center" height="55" width="55" src="distros/icons8-kali-linux-100.png">
 <!-- <img alt="BlackArch" align="center" height="55" width="55" src="distros/pngaaa.com-3063500.png"> -->
-<!-- <img alt="nixOS" height="55" align="center" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" /> -->
+<!-- <img alt="NixOS" height="55" align="center" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" /> -->
 </div>
 
 ### Scripting/Shell Languages
