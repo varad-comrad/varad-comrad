@@ -1,5 +1,8 @@
 <!--
 ## To learn
+Prolog
+V
+Julia
 Golang
 C#
 Kotlin
