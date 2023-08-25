@@ -21,6 +21,7 @@ Haskell
 💼 Currently I'm developing [Workflow project](https://github.com/varad-comrad/Workflow) and studying Neural Networks.
 
 📈 My areas of interest are Neural Networks, Optimization, Big Data and Operating Systems
+
 <!-- 📓  You can see my portfolio [here](https://varad-comrad.github.io) -->
 
 💬 Ask me about anything [here](https://github.com/varad-comrad/varad-comrad/issues) 
@@ -64,7 +65,7 @@ Haskell
 <img align="center" alt="C++" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
 <img align="center" alt="Rust" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png">
 <!-- <img align="center" alt="Zig" height="55" width="55" src="langs/zig-mark.svg"> -->
-<!-- Carbon -->
+<!-- <img align="center" alt="Carbon" height="55" width="55" src=""> -->
 
 </div>
 
