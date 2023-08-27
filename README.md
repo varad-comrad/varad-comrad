@@ -170,6 +170,10 @@ Haskell
 <img alt="bash" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 <!-- <img alt="PowerShell" height="55" width="55" src="langs/icons8-powershell.svg"/> -->
 </div>
+
+
+<!-- ## Security -->
+
   
 ## Others
 <div style="diplay: inline-block"><br>
