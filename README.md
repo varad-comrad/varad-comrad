@@ -172,9 +172,15 @@ Haskell
 </div>
 
 
-<!-- ## Security -->
+<!-- ## Cyber Security -->
+<!-- <div style="diplay: inline-block"><br> 
+Wireshark
+Nmap
+Burp Suite
+Metasploit
 
-  
+</div> -->
+
 ## Others
 <div style="diplay: inline-block"><br>
 <img align="center" alt="Arduino" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
