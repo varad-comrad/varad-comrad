@@ -172,13 +172,15 @@ Haskell
 </div>
 
 
+<!--
 ## Cyber Security
 <div style="diplay: inline-block"><br> 
 <img align="center" alt="Wireshark" height="55" width="55" src="sec/Wireshark_Icon.png">
-<!-- <img align="center" alt="Burp Suite" height="55" width="55" src="sec/pxfuel.jpg"> -->
+<img align="center" alt="Burp Suite" height="55" width="55" src="sec/pxfuel.jpg">
 <img align="center" alt="Nmap" height="55" width="55" src="sec/nmap_icon_132152.svg">
-<!-- Metasploit -->
+Metasploit
 </div> 
+-->
 
 ## Others
 <div style="diplay: inline-block"><br>
