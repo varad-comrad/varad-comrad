@@ -101,20 +101,20 @@ Haskell
 <img align="center" alt="Numpy" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
 <img align="center" alt="Scipy" height="55" width="55" src="libs/scipy_logo_icon_248581.png"> 
 <img align="center" alt="Pandas" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-<img align="center" alt="Polars" height="55" width="55" src="libs/Simpleicons-Team-Simple-Polars.svg">
+<img align="center" alt="Polars" height="55" width="55" src="libs/Simpleicons-Team-Simple-Polars.svg"> 
 <!-- <img align="center" alt="Apache Spark" height="55" width="55" src="libs/apache_spark_logo_icon_170561.png">   -->
 <!-- <img align="center" alt="Apache Kafka" height="55" width="55" src="libs/apache_kafka_icon_138937.svg">   -->
 <!-- <img align="center" alt="Apache Airflow" height="55" width="55" src="libs/airflow-3.png">   -->
-<img align="center" alt="Matplotlib" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
+<img align="center" alt="Matplotlib" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"> </br> </br>
 <img align="center" alt="Seaborn" height="55" width="55" src="libs/seaborn-icon.svg">
-<img align="center" alt="Plotly" height="55" width="55" src="https://images.plot.ly/logo/new-branding/plotly-logomark.png"> </br> </br>
+<img align="center" alt="Plotly" height="55" width="55" src="https://images.plot.ly/logo/new-branding/plotly-logomark.png">
 <!-- <img align="center" alt="Selenium" height="55" width="55" src="libs/selenium.svg">  -->
 <img align="center" alt="Scikit-learn" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
 <!-- <img align="center" alt="MLFlow" height="55" width="55" src="libs/MLflow-Logo.svg">   -->
-<img align="center" alt="Tensorflow" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
-<img align="center" alt="Pytorch" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
-<img align="center" alt="Keras" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">
-<img align="center" alt="OpenCV" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
+<!-- <img align="center" alt="Tensorflow" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> -->
+<!-- <img align="center" alt="Pytorch" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"> -->
+<!-- <img align="center" alt="Keras" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"> -->
+<!-- <img align="center" alt="OpenCV" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"> -->
 <img align="center" alt="Cython" height="55" width="55" src="libs/file_type_cython_icon_130653.png">
 <img align="center" alt="SqlAlchemy" height="55" width="55" src="libs/SQLAlchemy.png">
 <!-- 
