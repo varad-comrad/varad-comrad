@@ -54,6 +54,7 @@ Haskell
 <!-- <img align="center" alt="C#" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> -->
 <img align="center" alt="Node-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <!-- <img align="center" alt="Deno" height="55" width="55" src="libs/deno.svg"> -->
+<!-- <img align="center" alt="Bun" height="55" width="55" src="libs/bun.svg"> -->
 <img align="center" alt="Flask" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png">
 <img align="center" alt="Django" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <!-- <img align="center" alt="FastAPI" height="55" width="55" src="libs/fastapi.svg">   -->
