@@ -26,12 +26,10 @@ Haskell
 
 <!-- 📓  You can see my portfolio [here](https://varad-comrad.github.io) -->
 
-💬 Ask me about anything [here](https://github.com/varad-comrad/varad-comrad/issues) 
-
 
  # 💻 Personal Skills 
-
-<!-- ## Programming Languages
+<!--
+## Programming Languages
 <div style="diplay: inline-block"><br>
 <img align="center" alt="JavaScript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" alt="Typescript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
@@ -41,7 +39,7 @@ Haskell
 <img align="center" alt="C#" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
 <img align="center" alt="C" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
 <img align="center" alt="C++" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
-<img align="center" alt="Rust" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png">
+<img align="center" alt="Rust" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png"></br></br>
 <img align="center" alt="Zig" height="55" width="55" src="langs/zig-mark.svg"> 
 <img align="center" alt="Carbon" height="55" width="55" src=""> 
 <img align="center" alt="Python" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -51,6 +49,20 @@ Haskell
 <img align="center" alt="VBA" height="55" width="55" src="langs/vba.svg">  
 <img alt="bash" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 <img alt="PowerShell" height="55" width="55" src="langs/icons8-powershell.svg"/> 
+</div>
+
+### Databases
+<div style="diplay: inline-block"><br>
+<img align="center" alt="MySQL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img align="center" alt="SQLite" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+<img align="center" alt="MongoDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+<img align="center" alt="PostgreSQL" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png">
+<img align="center" alt="CouchDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg"> 
+<img align="center" alt="Redis" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"> 
+<img align="center" alt="MariaDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg"> 
+<img align="center" alt="Firebase" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg"> 
+<img align="center" alt="SurrealDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/surrealdb/surrealdb-original.svg"> 
+</div>
 -->
 ## Full-Stack Developer
 ###  Front-end
@@ -59,9 +71,9 @@ Haskell
 <img align="center" alt="CSS3" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="JavaScript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" alt="Typescript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-<!-- <img align="center" alt="React-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> -->
-<!-- <img align="center" alt="Vue-js" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png"> -->
-<!-- <img align="center" alt="Nest-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /> -->
+<!-- <img align="center" alt="React" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> -->
+<!-- <img align="center" alt="Vue" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png"> -->
+<!-- <img align="center" alt="Nest" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /> -->
 <!-- <img align="center" alt="Redux" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /> -->
 <!-- <img align="center" alt="Express" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> -->
                                 
@@ -70,9 +82,7 @@ Haskell
 ### Back-end
 <div style="diplay: inline-block"><br>
 <img align="center" alt="Java" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<!-- <img align="center" alt="Kotlin" height="55" width="55" src="langs/icons8-kotlin.svg"> -->
-<!-- <img align="center" alt="Golang" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /> -->
-<!-- <img align="center" alt="C#" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> -->
+<!-- <img align="center" alt=".Net" height="55" width="55" src="langs/dotnet"> -->
 <img align="center" alt="Node-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <!-- <img align="center" alt="Deno" height="55" width="55" src="libs/deno.svg"> -->
 <!-- <img align="center" alt="Bun" height="55" width="55" src="libs/bun.svg"> -->
@@ -88,34 +98,31 @@ Haskell
 <img align="center" alt="C" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
 <img align="center" alt="C++" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
 <img align="center" alt="Rust" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png">
-<!-- <img align="center" alt="Zig" height="55" width="55" src="langs/zig-mark.svg"> -->
-<!-- <img align="center" alt="Carbon" height="55" width="55" src=""> -->
-
 </div>
 
 ## Data Science
 ### Languages
 <div style="diplay: inline-block"><br>
 <img align="center" alt="Python" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
- <img align="center" alt="R" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-<!-- <img align="center" alt="Julia" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg"> -->
-<!-- <img align="center" alt="Nim" height="55" width="55" src="langs/file-type-nim.svg"> -->
-<!-- VBA -->
-
+<img align="center" alt="R" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
 </div>
+<!--
+### ETL
+### Data Visualization
+### Machine Learning
+### Deep Learning
+### Reinforcement Learning
+### NLP
+### Computer Vision
+### Softwares
+-->
 
-### Database
+### Databases
 <div style="diplay: inline-block"><br>
 <img align="center" alt="MySQL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 <img align="center" alt="SQLite" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
 <img align="center" alt="MongoDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 <img align="center" alt="PostgreSQL" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png">
-<!-- <img align="center" alt="CouchDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg"> -->
-<!-- <img align="center" alt="Redis" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"> -->
-<!--  <img align="center" alt="MariaDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg"> -->
-<!-- <img align="center" alt="Firebase" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg"> -->
-<!--  <img align="center" alt="SurrealDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/surrealdb/surrealdb-original.svg"> -->
-
 </div>
 
 ### Libraries 
@@ -240,22 +247,8 @@ Metasploit
 
 <!-- 
 # 💼 Organizations:
-- Skill Craft
 - RustPython (possibly)
 - Asahi Linux (possibly)
 - Zig (possibly)
 - Carbon (possibly)
--->
-
-<!-- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="C" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
-  <img align="center" alt="Python" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Golang" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-  <img align="center" alt="Zig" height="45" width="55" src="langs/zig-mark.svg">
-  <img align="center" alt="TypeScript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Rust" height="45" width="55" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png">
-  <img align="center" alt="Nim" height="45" width="55" src="langs/file-type-nim.svg">
-</div> 
 -->
