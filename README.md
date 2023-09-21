@@ -64,6 +64,7 @@ Haskell
 <img align="center" alt="SurrealDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/surrealdb/surrealdb-original.svg"> 
 </div>
 -->
+
 ## Full-Stack Developer
 ###  Front-end
 <div style="diplay: inline-block"><br>
