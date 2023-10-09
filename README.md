@@ -1,18 +1,17 @@
 <!--
 ## To learn
-V
-Julia
 Golang
 Kotlin
+V
 Zig
+Julia
 Carbon
 Nim
 Next
 Vue
 Svelte
 Redux
-Express
-Haskell         
+Express      
 -->
 
 # 💫 About Me
@@ -89,15 +88,14 @@ Haskell
 
 ## Data Science
 
-<!--
-### Tensor operations
+<!-- ### Tensor operations -->
 <div style="diplay: inline-block"><br>
+<!--
 <img align="center" alt="Numpy" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
 <img align="center" alt="Scipy" height="55" width="55" src="libs/scipy_logo_icon_248581.png"> 
-
 PyArrow
-</div>
 -->
+</div>
 
 ### ETL
 <div style="diplay: inline-block"><br>
@@ -176,7 +174,7 @@ JAX
 <div style="diplay: inline-block"><br>
 <img align="center" alt="AWS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <!-- <img align="center" alt="Azure" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /> -->
-<img align="center" alt="Google Cloud" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+<!-- <img align="center" alt="Google Cloud" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /> -->
 </div>
 
 ### Container
