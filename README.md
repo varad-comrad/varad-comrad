@@ -57,6 +57,7 @@ Express
 <div style="diplay: inline-block"><br>
 <img align="center" alt="HTML5" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="CSS3" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="center" alt="Markdown" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 </div>
 -->
 
@@ -208,6 +209,21 @@ JAX
 </div>
 
 <!--
+## Robotics
+<div style="diplay: inline-block"><br> 
+ROS
+NAO
+</div> 
+-->
+
+<!--
+## RPA
+<div style="diplay: inline-block"><br> 
+UiPath
+</div> 
+-->
+
+<!--
 ## Cyber Security
 <div style="diplay: inline-block"><br> 
 <img align="center" alt="Wireshark" height="55" width="55" src="sec/Wireshark_Icon.png">
@@ -219,6 +235,9 @@ Metasploit
 
 ## Others
 <div style="diplay: inline-block"><br>
+<!--  Cmake -->
+<!--  RaspberryPi -->
+<!--  Figma -->
 <img align="center" alt="Arduino" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 <img align="center" alt="Latex" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
 <img align="center" alt="Markdown" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
