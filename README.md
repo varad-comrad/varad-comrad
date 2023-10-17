@@ -44,9 +44,21 @@ Express
 <!-- <img align="center" alt="Julia" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg">  -->
 <!-- <img align="center" alt="Nim" height="55" width="55" src="langs/file-type-nim.svg">  -->
 <!-- <img align="center" alt="VBA" height="55" width="55" src="langs/vba.svg">   -->
+</div>
+
+## Scripting Languages
+<div style="diplay: inline-block"><br>
 <img alt="Bash" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 <img alt="PowerShell" height="55" width="55" src="langs/icons8-powershell.svg"/> 
 </div>
+
+<!--
+## Markup Languages
+<div style="diplay: inline-block"><br>
+<img align="center" alt="HTML5" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="center" alt="CSS3" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</div>
+-->
 
 ## Databases
 <div style="diplay: inline-block"><br>
