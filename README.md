@@ -1,12 +1,6 @@
 <!--
 ## To learn
-Golang
-Kotlin
 V
-Zig
-Julia
-Carbon
-Nim
 Next
 Vue
 Svelte
@@ -174,7 +168,20 @@ Requests
 BeatifulSoup
 JAX
  -->
- 
+<!--
+## Robotics
+<div style="diplay: inline-block"><br> 
+ROS
+NAO
+Cyberbotics
+</div> 
+-->
+<!--
+## RPA
+<div style="diplay: inline-block"><br> 
+UiPath
+</div> 
+--> 
 
 ## DevOps
 
@@ -202,21 +209,6 @@ JAX
 <!-- <img alt="BlackArch" align="center" height="55" width="55" src="distros/pngaaa.com-3063500.png"> -->
 <!-- <img alt="NixOS" height="55" align="center" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" /> -->
 </div>
-
-<!--
-## Robotics
-<div style="diplay: inline-block"><br> 
-ROS
-NAO
-</div> 
--->
-
-<!--
-## RPA
-<div style="diplay: inline-block"><br> 
-UiPath
-</div> 
--->
 
 <!--
 ## Cyber Security
