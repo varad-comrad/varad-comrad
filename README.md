@@ -262,8 +262,8 @@ Metasploit
 <a href="https://github.com/varad-comrad/Workflow">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=varad-comrad&repo=Workflow&theme=react" />
 </a>
-<a href="https://github.com/varad-comrad/Biblioteca-CNU">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=varad-comrad&repo=Biblioteca-CNU&theme=react" />
+<a href="https://github.com/F-R-I-D-A-Y-Project/F.R.I.D.A.Y-Python">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=F-R-I-D-A-Y-Project&repo=F.R.I.D.A.Y-Python&theme=react" />
 </a>
 <!-- 
 # 💼 Organizations:
