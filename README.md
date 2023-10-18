@@ -52,14 +52,12 @@ Express
 <img alt="PowerShell" height="55" width="55" src="langs/icons8-powershell.svg"/> 
 </div>
 
-<!--
 ## Markup Languages
 <div style="diplay: inline-block"><br>
 <img align="center" alt="HTML5" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="CSS3" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="Markdown" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 </div>
--->
 
 ## Databases
 <div style="diplay: inline-block"><br>
@@ -77,9 +75,7 @@ Express
 ## Full-Stack Developer
 ###  Front-end
 <div style="diplay: inline-block"><br>
-<img align="center" alt="HTML5" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" alt="CSS3" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<!-- <img align="center" alt="React" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> -->
+<img align="center" alt="React" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <!-- <img align="center" alt="Vue" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png"> -->
 <!-- <img align="center" alt="Nest" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /> -->
 <!-- <img align="center" alt="Redux" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /> -->
@@ -101,13 +97,12 @@ Express
 
 ## Data Science
 
-<!-- ### Tensor operations -->
+### Math operations
 <div style="diplay: inline-block"><br>
-<!--
 <img align="center" alt="Numpy" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
 <img align="center" alt="Scipy" height="55" width="55" src="libs/scipy_logo_icon_248581.png"> 
-PyArrow
--->
+<!-- PyArrow -->
+
 </div>
 
 ### ETL
