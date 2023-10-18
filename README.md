@@ -97,7 +97,7 @@ Express
 
 ## Data Science
 
-### Math operations
+### Numerical computation
 <div style="diplay: inline-block"><br>
 <img align="center" alt="Numpy" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
 <img align="center" alt="Scipy" height="55" width="55" src="libs/scipy_logo_icon_248581.png"> 
