@@ -220,14 +220,29 @@ Metasploit
 </div> 
 -->
 
+## IDEs
+<div style="diplay: inline-block"><br>
+<img align="center" alt="IntelliJ Idea" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+<img align="center" alt="Jupyter" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+<img align="center" alt="PyCharm" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
+<img align="center" alt="Vim" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
+<img align="center" alt="VS Code" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+</div>
+
 ## Others
 <div style="diplay: inline-block"><br>
-<!--  Cmake -->
-<!--  RaspberryPi -->
-<!--  Figma -->
 <img align="center" alt="Arduino" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+<img align="center" alt="Raspberry Pi" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
 <img align="center" alt="Latex" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
-<img align="center" alt="Markdown" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+<img align="center" alt="CMake" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg">
+<img align="center" alt="Figma" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">          
+<!--            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg">
+-->
 </div>
 
 
