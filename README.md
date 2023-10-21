@@ -48,11 +48,16 @@ Express
 <img alt="PowerShell" height="55" width="55" src="langs/icons8-powershell.svg"/> 
 </div>
 
-## Markup Languages
+## Other Languages
 <div style="diplay: inline-block"><br>
 <img align="center" alt="HTML5" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="CSS3" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="Markdown" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+<!-- SQL -->
+<!-- VBA -->
+<!-- YAML -->
+<!-- XML -->
+<!-- HTMX -->
 </div>
 
 ## Databases
