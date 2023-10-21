@@ -6,12 +6,18 @@ Vue
 Svelte
 Redux
 Express      
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+            
+          
 -->
 
 # 💫 About Me
 👨🏻‍💻 I'm a computer engineering student at Instituto Militar de Engenharia.
 
-💼 Currently I'm developing [Workflow project](https://github.com/varad-comrad/Workflow) and studying Neural Networks.
+💼 Currently I'm developing [F.R.I.D.A.Y.](https://github.com/F-R-I-D-A-Y-Project/F.R.I.D.A.Y-Python) and studying the Transformers Architecture.
 
 📈 My areas of interest are Neural Networks, Optimization, Big Data and Operating Systems
 
