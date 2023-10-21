@@ -6,12 +6,6 @@ Vue
 Svelte
 Redux
 Express      
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
-            
-          
 -->
 
 # 💫 About Me
@@ -44,6 +38,8 @@ Express
 <!-- <img align="center" alt="Julia" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg">  -->
 <!-- <img align="center" alt="Nim" height="55" width="55" src="langs/file-type-nim.svg">  -->
 <!-- <img align="center" alt="VBA" height="55" width="55" src="langs/vba.svg">   -->
+<img align="center" alt="Prolog" height="55" width="55" src="./langs/prolog.svg">
+
 </div>
 
 ## Scripting Languages
@@ -97,6 +93,7 @@ Express
 ### API
 <div style="diplay: inline-block"><br>
 <img align="center" alt="FastAPI" height="55" width="55" src="libs/fastapi.svg">
+<img align="center" alt="Selenium" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/> 
 </div>
 -->
 
@@ -245,6 +242,7 @@ Metasploit
 <img align="center" alt="Arduino" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 <img align="center" alt="Raspberry Pi" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
 <img align="center" alt="Latex" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
+<!-- <img align="center" alt="OpenGL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" /> -->
 <!-- <img align="center" alt="CMake" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg"> -->
 <!-- <img align="center" alt="Figma" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">           -->
 <!--            
