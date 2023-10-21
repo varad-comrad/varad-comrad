@@ -4,21 +4,34 @@ V
 Next
 Vue
 Svelte
-Redux
 Express      
 -->
+<!-- 📈 -->
 
-# 💫 About Me
+# 💻 About Me
 👨🏻‍💻 I'm a computer engineering student at Instituto Militar de Engenharia.
 
 💼 Currently I'm developing [F.R.I.D.A.Y.](https://github.com/F-R-I-D-A-Y-Project/F.R.I.D.A.Y-Python) and studying the Transformers Architecture.
 
-📈 My areas of interest are Neural Networks, Optimization, Big Data and Operating Systems
+📚 My areas of interest are Neural Networks, Optimization, Big Data and Operating Systems
 
 <!-- 📓  You can see my portfolio [here](https://varad-comrad.github.io) -->
 
 
- # 💻 Personal Skills 
+<!--
+# 💼 Organizations/Companies:
+- [F.R.I.D.A.Y.](https://github.com/F-R-I-D-A-Y-Project)
+- Areg
+- Murano(?)
+- 
+- RustPython (possibly)
+- Asahi Linux (possibly)
+- Zig (possibly)
+- Carbon (possibly)
+-->
+
+
+# 🛠️ Personal Skills 
 
 ## Programming Languages
 <div style="diplay: inline-block"><br>
@@ -31,18 +44,16 @@ Express
 <!-- <img align="center" alt="Kotlin" height="55" width="55" src="langs/icons8-kotlin.svg">  -->
 <img align="center" alt="JavaScript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <!-- <img align="center" alt="Typescript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> --></br></br>
+<img align="center" alt="Python" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <!-- <img align="center" alt="Zig" height="55" width="55" src="langs/zig-mark.svg">  -->
 <!-- <img align="center" alt="Carbon" height="55" width="55" src="">  -->
-<img align="center" alt="Python" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <!-- <img align="center" alt="R" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"> -->
 <!-- <img align="center" alt="Julia" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg">  -->
 <!-- <img align="center" alt="Nim" height="55" width="55" src="langs/file-type-nim.svg">  -->
-<!-- <img align="center" alt="VBA" height="55" width="55" src="langs/vba.svg">   -->
-<img align="center" alt="Prolog" height="55" width="55" src="./langs/prolog.svg">
 
 </div>
 
-## Scripting Languages
+## Shell Languages
 <div style="diplay: inline-block"><br>
 <img alt="Bash" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 <img alt="PowerShell" height="55" width="55" src="langs/icons8-powershell.svg"/> 
@@ -53,10 +64,14 @@ Express
 <img align="center" alt="HTML5" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="CSS3" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="Markdown" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+<img align="center" alt="Prolog" height="55" width="55" src="./langs/prolog.svg">
+
+<!-- <img align="center" alt="VBA" height="55" width="55" src="./langs/file_type_vba_icon_130097.svg" /> -->
+<!-- <img align="center" alt="YAML" height="55" width="55" src="./langs/yaml-file-icon.svg" /> -->
+<!-- <img align="center" alt="XML" height="55" width="55" src="./langs/xml_filetype_icon_177509.svg" /> -->
 <!-- SQL -->
-<!-- VBA -->
-<!-- YAML -->
-<!-- XML -->
+<!-- <img align="center" alt="GraphQL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />  -->
+
 <!-- HTMX -->
 </div>
 
@@ -73,10 +88,12 @@ Express
 <!-- <img align="center" alt="SurrealDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/surrealdb/surrealdb-original.svg">  -->
 </div>
 
-## Full-Stack Developer
+##  Full-Stack Developer
 ###  Front-end
 <div style="diplay: inline-block"><br>
 <img align="center" alt="React" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+
+<!-- <img align="center" alt="Angular" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> -->
 <!-- <img align="center" alt="Vue" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png"> -->
 <!-- <img align="center" alt="Nest" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /> -->
 <!-- <img align="center" alt="Redux" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /> -->
@@ -86,19 +103,28 @@ Express
 
 ### Back-end
 <div style="diplay: inline-block"><br>
-<!-- <img align="center" alt=".Net" height="55" width="55" src="langs/dotnet"> -->
+<!-- <img align="center" alt=".Net" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"> -->
 <img align="center" alt="Node-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <!-- <img align="center" alt="Deno" height="55" width="55" src="libs/deno.svg"> -->
 <!-- <img align="center" alt="Bun" height="55" width="55" src="libs/bun.svg"> -->
 <img align="center" alt="Flask" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png">
 <img align="center" alt="Django" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+<!-- <img align="center" alt="Spring" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> -->
 </div>
 
 <!--
 ### API
 <div style="diplay: inline-block"><br>
 <img align="center" alt="FastAPI" height="55" width="55" src="libs/fastapi.svg">
+</div>
+-->
+
+<!--
+### Web Scraping
+<div style="diplay: inline-block"><br>
 <img align="center" alt="Selenium" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/> 
+Requests
+BeatifulSoup
 </div>
 -->
 
@@ -108,8 +134,8 @@ Express
 <div style="diplay: inline-block"><br>
 <img align="center" alt="Numpy" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
 <img align="center" alt="Scipy" height="55" width="55" src="libs/scipy_logo_icon_248581.png"> 
+<!-- JAX -->
 <!-- PyArrow -->
-
 </div>
 
 ### ETL
@@ -153,6 +179,7 @@ Express
 ### NLP
 <div style="diplay: inline-block"><br>
  NLTK
+ LangChain
 </div>
 ### Statistics
 <div style="diplay: inline-block"><br>
@@ -175,13 +202,6 @@ Express
 </div>
 
 <!--
-<img align="center" alt="Selenium" height="55" width="55" src="libs/selenium.svg">
-<img align="center" alt="Cython" height="55" width="55" src="libs/file_type_cython_icon_130653.png">
-Requests
-BeatifulSoup
-JAX
- -->
-<!--
 ## Robotics
 <div style="diplay: inline-block"><br> 
 ROS
@@ -189,6 +209,7 @@ NAO
 Cyberbotics
 </div> 
 -->
+
 <!--
 ## RPA
 <div style="diplay: inline-block"><br> 
@@ -212,7 +233,7 @@ UiPath
 <!-- <img align="center" alt="Rancher" height="55" width="55" src="devops/rancher.svg" />    -->
 </div>
 
-### Operating Systems
+## Operating Systems
 <div style="diplay: inline-block"><br>
 <img alt="Windows" align="center" height="55" width="55" src="distros/5882175_logo_operating_system_windows_icon.png">
 <img alt="Ubuntu" align="center" height="55" width="55" src="distros/5367252_linux_operating system_ubuntu_icon.png">
@@ -242,21 +263,40 @@ Metasploit
 <img align="center" alt="VS Code" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
+<!-- ## Java Project Managers 
+<div style="diplay: inline-block"><br> 
+<img align="center" alt="Gradle" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" /> 
+<img align="center" alt="Maven" height="55" width="55" src="./java-pm/Apache_Maven_logo.svg" /> 
+</div>
+-->
+
+<!-- ## C++
+<div style="diplay: inline-block"><br> 
+<img align="center" alt="OpenGL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
+<img align="center" alt="CMake" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg">
+<img align="center" alt="Qt" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg">
+</div>
+-->
+
+<!-- ## Engines
+<div style="diplay: inline-block"><br> 
+<img align="center" alt="Unreal Engine" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
+<img align="center" alt="Unity" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+</div>
+ -->
+
 ## Others
 <div style="diplay: inline-block"><br>
 <img align="center" alt="Arduino" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 <img align="center" alt="Raspberry Pi" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
 <img align="center" alt="Latex" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
-<!-- <img align="center" alt="OpenGL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" /> -->
-<!-- <img align="center" alt="CMake" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg"> -->
-<!-- <img align="center" alt="Figma" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">           -->
-<!--            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg">
--->
+<img align="center" alt="Cython" height="55" width="55" src="libs/file_type_cython_icon_130653.png">
+<img align="center" alt="Anaconda" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
+<!-- <img align="center" alt="Figma" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> -->
+<!-- <img align="center" alt="Terraform" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"> -->
+<!-- <img align="center" alt="Ansible" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"> -->
+<!-- <img align="center" alt="Vagrant" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" /> -->
+          
 </div>
 
 
@@ -281,10 +321,3 @@ Metasploit
 <a href="https://github.com/F-R-I-D-A-Y-Project/F.R.I.D.A.Y-Python">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=F-R-I-D-A-Y-Project&repo=F.R.I.D.A.Y-Python&theme=react" />
 </a>
-<!-- 
-# 💼 Organizations:
-- RustPython (possibly)
-- Asahi Linux (possibly)
-- Zig (possibly)
-- Carbon (possibly)
--->
