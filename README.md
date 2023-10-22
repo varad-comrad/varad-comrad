@@ -134,6 +134,7 @@ BeatifulSoup
 <div style="diplay: inline-block"><br>
 <img align="center" alt="Numpy" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
 <img align="center" alt="Scipy" height="55" width="55" src="libs/scipy_logo_icon_248581.png"> 
+<img align="center" alt="PyArrow" height="55" width="55" src="libs/arrow-logo_chevrons_black-txt_transparent-bg.png"> 
 <!-- JAX -->
 <!-- PyArrow -->
 </div>
@@ -194,16 +195,18 @@ BeatifulSoup
 <!-- YOLO -->
 </div>
 
-### Softwares
+### Softwares / Platforms
 <div style="diplay: inline-block"><br>
 <!-- <img alt="Power BI" align="center" height="55" width="55" src="dasoft/icons8-power-bi-50.png"> -->
 <img alt="Tableau" align="center" height="55" width="55" src="dasoft/icons8-tableau-software-48.png">
- 
+<img align="center" alt="Anaconda" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
 </div>
 
 <!--
-## Robotics
+## Robotics / IoT
 <div style="diplay: inline-block"><br> 
+<img align="center" alt="Arduino" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+<img align="center" alt="Raspberry Pi" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
 ROS
 NAO
 Cyberbotics
@@ -244,6 +247,22 @@ UiPath
 <!-- <img alt="NixOS" height="55" align="center" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" /> -->
 </div>
 
+<!-- ## Project Management
+<div style="diplay: inline-block"><br> 
+<img align="center" alt="Gradle" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" /> 
+<img align="center" alt="Maven" height="55" width="55" src="./java-pm/Apache_Maven_logo.svg" /> 
+<img align="center" alt="CMake" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg">
+</div>
+-->
+
+<!-- ## C/C++ Frameworks
+<div style="diplay: inline-block"><br> 
+<img align="center" alt="OpenGL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
+<img align="center" alt="Qt" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg">
+GTK
+</div>
+-->
+
 <!--
 ## Cyber Security
 <div style="diplay: inline-block"><br> 
@@ -263,21 +282,6 @@ Metasploit
 <img align="center" alt="VS Code" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
-<!-- ## Java Project Managers 
-<div style="diplay: inline-block"><br> 
-<img align="center" alt="Gradle" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" /> 
-<img align="center" alt="Maven" height="55" width="55" src="./java-pm/Apache_Maven_logo.svg" /> 
-</div>
--->
-
-<!-- ## C++
-<div style="diplay: inline-block"><br> 
-<img align="center" alt="OpenGL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
-<img align="center" alt="CMake" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg">
-<img align="center" alt="Qt" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg">
-</div>
--->
-
 <!-- ## Engines
 <div style="diplay: inline-block"><br> 
 <img align="center" alt="Unreal Engine" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
@@ -291,7 +295,6 @@ Metasploit
 <img align="center" alt="Raspberry Pi" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
 <img align="center" alt="Latex" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
 <img align="center" alt="Cython" height="55" width="55" src="libs/file_type_cython_icon_130653.png">
-<img align="center" alt="Anaconda" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
 <!-- <img align="center" alt="Figma" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> -->
 <!-- <img align="center" alt="Terraform" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"> -->
 <!-- <img align="center" alt="Ansible" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"> -->
