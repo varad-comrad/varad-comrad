@@ -64,14 +64,8 @@ Express
 <img align="center" alt="HTML5" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="CSS3" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="Markdown" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-<img align="center" alt="Prolog" height="55" width="55" src="./langs/prolog.svg">
-
 <!-- <img align="center" alt="VBA" height="55" width="55" src="./langs/file_type_vba_icon_130097.svg" /> -->
-<!-- <img align="center" alt="YAML" height="55" width="55" src="./langs/yaml-file-icon.svg" /> -->
-<!-- <img align="center" alt="XML" height="55" width="55" src="./langs/xml_filetype_icon_177509.svg" /> -->
-<!-- SQL -->
 <!-- <img align="center" alt="GraphQL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />  -->
-
 <!-- HTMX -->
 </div>
 
@@ -92,7 +86,6 @@ Express
 ###  Front-end
 <div style="diplay: inline-block"><br>
 <img align="center" alt="React" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-
 <!-- <img align="center" alt="Angular" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> -->
 <!-- <img align="center" alt="Vue" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png"> -->
 <!-- <img align="center" alt="Nest" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /> -->
@@ -136,7 +129,6 @@ BeatifulSoup
 <img align="center" alt="Scipy" height="55" width="55" src="libs/scipy_logo_icon_248581.png"> 
 <img align="center" alt="PyArrow" height="55" width="55" src="libs/arrow-logo_chevrons_black-txt_transparent-bg.png"> 
 <!-- JAX -->
-<!-- PyArrow -->
 </div>
 
 ### ETL
