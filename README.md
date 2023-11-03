@@ -1,11 +1,3 @@
-<!--
-## To learn
-V
-Next
-Vue
-Svelte
-Express      
--->
 <!-- 📈 -->
 
 # 💻 About Me
@@ -16,20 +8,15 @@ Express
 📚 My areas of interest are Neural Networks, Optimization, Big Data and Operating Systems
 
 <!-- 📓  You can see my portfolio [here](https://varad-comrad.github.io) -->
-
-
 <!--
 # 💼 Organizations/Companies:
 - [F.R.I.D.A.Y.](https://github.com/F-R-I-D-A-Y-Project)
 - Areg
-- Murano(?)
-- 
 - RustPython (possibly)
 - Asahi Linux (possibly)
 - Zig (possibly)
 - Carbon (possibly)
 -->
-
 
 # 🛠️ Personal Skills 
 
@@ -50,6 +37,7 @@ Express
 <!-- <img align="center" alt="R" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"> -->
 <!-- <img align="center" alt="Julia" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg">  -->
 <!-- <img align="center" alt="Nim" height="55" width="55" src="langs/file-type-nim.svg">  -->
+<!-- <img align="center" alt="V" height="55" width="55" src="langs/vlang.svg">  -->
 
 </div>
 
@@ -93,7 +81,7 @@ Express
 <!-- <img align="center" alt="Express" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> -->
 <!-- <img align="center" alt="Atom" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" /> -->
 <!-- <img align="center" alt="Electron" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" /> -->
-                                
+<!-- <img align="center" alt="Svelte" height="55" width="55" src="Svelte.svg" /> -->
 </div>
 
 ### Back-end
