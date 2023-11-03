@@ -39,11 +39,11 @@ Express
 <img align="center" alt="C++" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
 <img align="center" alt="Rust" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png">
 <!-- <img align="center" alt="Golang" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />  -->
-<!-- <img align="center" alt="C#" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">  -->
+<img align="center" alt="C#" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
 <img align="center" alt="Java" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<!-- <img align="center" alt="Kotlin" height="55" width="55" src="langs/icons8-kotlin.svg">  -->
+<!-- <img align="center" alt="Kotlin" height="55" width="55" src="langs/icons8-kotlin.svg">  --> </br></br>
 <img align="center" alt="JavaScript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<!-- <img align="center" alt="Typescript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> --></br></br>
+<img align="center" alt="Typescript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 <img align="center" alt="Python" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <!-- <img align="center" alt="Zig" height="55" width="55" src="langs/zig-mark.svg">  -->
 <!-- <img align="center" alt="Carbon" height="55" width="55" src="">  -->
@@ -64,15 +64,8 @@ Express
 <img align="center" alt="HTML5" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="CSS3" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="Markdown" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-<img align="center" alt="Prolog" height="55" width="55" src="./langs/prolog.svg">
-
-<!-- <img align="center" alt="VBA" height="55" width="55" src="./langs/file_type_vba_icon_130097.svg" /> -->
-<!-- <img align="center" alt="YAML" height="55" width="55" src="./langs/yaml-file-icon.svg" /> -->
-<!-- <img align="center" alt="XML" height="55" width="55" src="./langs/xml_filetype_icon_177509.svg" /> -->
-<!-- SQL -->
+<!-- <img align="center" alt="Prolog" height="55" width="55" src="./langs/prolog.svg"> -->
 <!-- <img align="center" alt="GraphQL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />  -->
-
-<!-- HTMX -->
 </div>
 
 ## Databases
@@ -96,17 +89,20 @@ Express
 <!-- <img align="center" alt="Angular" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> -->
 <!-- <img align="center" alt="Vue" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png"> -->
 <!-- <img align="center" alt="Nest" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /> -->
+<img align="center" alt="Next" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
 <!-- <img align="center" alt="Redux" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /> -->
 <!-- <img align="center" alt="Express" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> -->
+<!-- <img align="center" alt="Atom" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" /> -->
+<!-- <img align="center" alt="Electron" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" /> -->
                                 
 </div>
 
 ### Back-end
 <div style="diplay: inline-block"><br>
-<!-- <img align="center" alt=".Net" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"> -->
 <img align="center" alt="Node-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <!-- <img align="center" alt="Deno" height="55" width="55" src="libs/deno.svg"> -->
 <!-- <img align="center" alt="Bun" height="55" width="55" src="libs/bun.svg"> -->
+<img align="center" alt=".Net" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
 <img align="center" alt="Flask" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png">
 <img align="center" alt="Django" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <!-- <img align="center" alt="Spring" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> -->
@@ -136,7 +132,6 @@ BeatifulSoup
 <img align="center" alt="Scipy" height="55" width="55" src="libs/scipy_logo_icon_248581.png"> 
 <img align="center" alt="PyArrow" height="55" width="55" src="libs/arrow-logo_chevrons_black-txt_transparent-bg.png"> 
 <!-- JAX -->
-<!-- PyArrow -->
 </div>
 
 ### ETL
@@ -161,6 +156,10 @@ BeatifulSoup
 <div style="diplay: inline-block"><br>
 <img align="center" alt="Scikit-learn" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
 <!-- <img align="center" alt="MLFlow" height="55" width="55" src="libs/MLflow-Logo.svg">   -->
+<!-- H2O -->
+<!-- AutoSKLearn -->
+<!-- FastAI -->
+<!-- Weka -->
 
 </div>
 
@@ -169,7 +168,7 @@ BeatifulSoup
 <img align="center" alt="Tensorflow" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
 <img align="center" alt="Pytorch" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
 <img align="center" alt="Keras" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">
-
+<!-- Ignite -->
 </div>
 
 <!-- 
@@ -180,6 +179,7 @@ BeatifulSoup
 ### NLP
 <div style="diplay: inline-block"><br>
  NLTK
+ SpaCy
  LangChain
 </div>
 ### Statistics
@@ -200,6 +200,7 @@ BeatifulSoup
 <!-- <img alt="Power BI" align="center" height="55" width="55" src="dasoft/icons8-power-bi-50.png"> -->
 <img alt="Tableau" align="center" height="55" width="55" src="dasoft/icons8-tableau-software-48.png">
 <img align="center" alt="Anaconda" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
+<!-- Lightning -->
 </div>
 
 <!--
@@ -207,9 +208,12 @@ BeatifulSoup
 <div style="diplay: inline-block"><br> 
 <img align="center" alt="Arduino" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 <img align="center" alt="Raspberry Pi" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
+<img align="center" alt="Embedded C" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" /> 
+<img align="center" alt="VHDL" height="55" width="55" src="./langs/vhdl.svg" />
 ROS
-NAO
-Cyberbotics
+HAL
+Webots
+CoppeliaSim
 </div> 
 -->
 
@@ -255,14 +259,6 @@ UiPath
 </div>
 -->
 
-<!-- ## C/C++ Frameworks
-<div style="diplay: inline-block"><br> 
-<img align="center" alt="OpenGL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
-<img align="center" alt="Qt" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg">
-GTK
-</div>
--->
-
 <!--
 ## Cyber Security
 <div style="diplay: inline-block"><br> 
@@ -280,6 +276,7 @@ Metasploit
 <img align="center" alt="PyCharm" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
 <img align="center" alt="Vim" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
 <img align="center" alt="VS Code" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<!-- <img align="center" alt="STM32 Cube " height="55" width="55" src="ide/stm32cube.svg" /> -->
 </div>
 
 <!-- ## Engines
@@ -299,6 +296,9 @@ Metasploit
 <!-- <img align="center" alt="Terraform" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"> -->
 <!-- <img align="center" alt="Ansible" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"> -->
 <!-- <img align="center" alt="Vagrant" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" /> -->
+<!-- <img align="center" alt="OpenGL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
+<img align="center" alt="Qt" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg">
+GTK -->
           
 </div>
 
