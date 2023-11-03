@@ -304,7 +304,7 @@ GTK -->
 
 # 📊 Stats
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=varad-comrad&theme=react&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=21&card_width=288px\&rank_icon=percentile)
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=varad-comrad&theme=react&hide_border=false&include_all_commits=true&count_private=true&langs_count=8&layout=compact&line_height=31&card_width=296px)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=varad-comrad&langs_count=8&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact&line_height=31&card_width=296px)
 
 # 🌐 Socials
 
