@@ -292,9 +292,8 @@ Metasploit
 
 
 # 📊 Stats
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=varad-comrad&theme=react&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=21&card_width=288px\&rank_icon=percentile)
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=varad-comrad&langs_count=8&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact&line_height=31&card_width=296px)
-
+![](https://github-readme-stats.vercel.app/api?username=varad-comrad&theme=react&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=21&card_width=288px\&rank_icon=percentile&line_height=31&card_width=296px)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=varad-comrad&langs_count=7&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=donut&line_height=31&card_width=296px)
 # 🌐 Socials
 
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-asfora-74794a248) 
