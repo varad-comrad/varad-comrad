@@ -26,7 +26,7 @@
 <img align="center" alt="C++" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
 <img align="center" alt="Rust" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png">
 <!-- <img align="center" alt="Golang" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />  -->
-<img align="center" alt="C#" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
+<!-- <img align="center" alt="C#" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">  -->
 <img align="center" alt="Java" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <!-- <img align="center" alt="Kotlin" height="55" width="55" src="langs/icons8-kotlin.svg">  --> </br></br>
 <img align="center" alt="JavaScript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -90,7 +90,7 @@
 <img align="center" alt="Node-js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <!-- <img align="center" alt="Deno" height="55" width="55" src="libs/deno.svg"> -->
 <!-- <img align="center" alt="Bun" height="55" width="55" src="libs/bun.svg"> -->
-<img align="center" alt=".Net" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+<!-- <img align="center" alt=".Net" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"> -->
 <img align="center" alt="Flask" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png">
 <img align="center" alt="Django" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <!-- <img align="center" alt="Spring" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> -->
@@ -186,7 +186,6 @@ BeatifulSoup
 <!-- <img alt="Power BI" align="center" height="55" width="55" src="dasoft/icons8-power-bi-50.png"> -->
 <img alt="Tableau" align="center" height="55" width="55" src="dasoft/icons8-tableau-software-48.png">
 <img align="center" alt="Anaconda" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
-<!-- Lightning -->
 </div>
 
 <!--
@@ -245,16 +244,6 @@ UiPath
 </div>
 -->
 
-<!--
-## Cyber Security
-<div style="diplay: inline-block"><br> 
-<img align="center" alt="Wireshark" height="55" width="55" src="sec/Wireshark_Icon.png">
-<img align="center" alt="Burp Suite" height="55" width="55" src="sec/pxfuel.jpg">
-<img align="center" alt="Nmap" height="55" width="55" src="sec/nmap_icon_132152.svg">
-Metasploit
-</div> 
--->
-
 ## IDEs
 <div style="diplay: inline-block"><br>
 <img align="center" alt="IntelliJ Idea" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
@@ -262,15 +251,7 @@ Metasploit
 <img align="center" alt="PyCharm" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
 <img align="center" alt="Vim" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
 <img align="center" alt="VS Code" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-<!-- <img align="center" alt="STM32 Cube " height="55" width="55" src="ide/stm32cube.svg" /> -->
 </div>
-
-<!-- ## Engines
-<div style="diplay: inline-block"><br> 
-<img align="center" alt="Unreal Engine" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
-<img align="center" alt="Unity" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-</div>
- -->
 
 ## Others
 <div style="diplay: inline-block"><br>
@@ -285,7 +266,6 @@ Metasploit
 <!-- <img align="center" alt="OpenGL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" /> -->
 <!-- <img align="center" alt="Qt" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"> -->
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" /> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" /> -->                    
 <!-- GTK -->
           
 </div>
