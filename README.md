@@ -153,6 +153,8 @@ BeatifulSoup
 <div style="diplay: inline-block"><br>
 <img align="center" alt="Tensorflow" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
 <img align="center" alt="Pytorch" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
+<img align="center" alt="Lightning" height="55" width="55" src="libs/lightning.png">
+<img align="center" alt="Hugging Face" height="55" width="55" src="libs/hf.png">
 <img align="center" alt="Keras" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">
 <!-- Ignite -->
 </div>
