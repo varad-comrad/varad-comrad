@@ -10,7 +10,6 @@
 <!-- 📓  You can see my portfolio [here](https://varad-comrad.github.io) -->
 <!--
 # 💼 Organizations/Companies:
-- [F.R.I.D.A.Y.](https://github.com/F-R-I-D-A-Y-Project)
 - Areg
 - RustPython (possibly)
 - Asahi Linux (possibly)
@@ -52,8 +51,6 @@
 <img align="center" alt="HTML5" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="CSS3" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="Markdown" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-<!-- <img align="center" alt="Prolog" height="55" width="55" src="./langs/prolog.svg"> -->
-<!-- <img align="center" alt="GraphQL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />  -->
 </div>
 
 ## Databases
@@ -62,9 +59,6 @@
 <img align="center" alt="SQLite" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
 <img align="center" alt="MongoDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 <img align="center" alt="PostgreSQL" height="55" width="55" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png">
-<!-- <img align="center" alt="CouchDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg">  -->
-<!-- <img align="center" alt="Redis" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">  -->
-<!-- <img align="center" alt="MariaDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg">  -->
 <!-- <img align="center" alt="Firebase" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg">  -->
 <!-- <img align="center" alt="SurrealDB" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/surrealdb/surrealdb-original.svg">  -->
 </div>
@@ -101,14 +95,6 @@
 <img align="center" alt="FastAPI" height="55" width="55" src="libs/fastapi.svg">
 </div>
 
-<!--
-### Web Scraping
-<div style="diplay: inline-block"><br>
-<img align="center" alt="Selenium" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/> 
-Requests
-BeatifulSoup
-</div>
--->
 
 ## Data Science
 
@@ -117,7 +103,6 @@ BeatifulSoup
 <img align="center" alt="Numpy" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
 <img align="center" alt="Scipy" height="55" width="55" src="libs/scipy_logo_icon_248581.png"> 
 <img align="center" alt="PyArrow" height="55" width="55" src="libs/arrow-logo_chevrons_black-txt_transparent-bg.png"> 
-<!-- JAX -->
 </div>
 
 ### ETL
@@ -156,7 +141,6 @@ BeatifulSoup
 <img align="center" alt="Lightning" height="55" width="55" src="libs/lightning.png">
 <img align="center" alt="Hugging Face" height="55" width="55" src="libs/hf.png">
 <img align="center" alt="Keras" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">
-<!-- Ignite -->
 </div>
 
 <!-- 
@@ -180,29 +164,13 @@ BeatifulSoup
 ### Computer Vision
 <div style="diplay: inline-block"><br>
 <img align="center" alt="OpenCV" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
-<!-- YOLO -->
 </div>
 
-### Softwares / Platforms
+### Data Visualization tools 
 <div style="diplay: inline-block"><br>
 <!-- <img alt="Power BI" align="center" height="55" width="55" src="dasoft/icons8-power-bi-50.png"> -->
 <img alt="Tableau" align="center" height="55" width="55" src="dasoft/icons8-tableau-software-48.png">
-<img align="center" alt="Anaconda" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
 </div>
-
-<!--
-## Robotics / IoT
-<div style="diplay: inline-block"><br> 
-<img align="center" alt="Arduino" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-<img align="center" alt="Raspberry Pi" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
-<img align="center" alt="Embedded C" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" /> 
-<img align="center" alt="VHDL" height="55" width="55" src="./langs/vhdl.svg" />
-ROS
-HAL
-Webots
-CoppeliaSim
-</div> 
--->
 
 <!--
 ## RPA
@@ -230,29 +198,10 @@ UiPath
 ## Operating Systems
 <div style="diplay: inline-block"><br>
 <img alt="Windows" align="center" height="55" width="55" src="distros/5882175_logo_operating_system_windows_icon.png">
-<img alt="Ubuntu" align="center" height="55" width="55" src="distros/5367252_linux_operating system_ubuntu_icon.png">
 <!-- <img alt="Arch Linux" align="center" height="55" width="55" src="distros/distributorlogoarchlinux_103805.png"> -->
-<img alt="Debian" align="center" height="55" width="55" src="distros/distributorlogodebian_93598.png">
 <img alt="Kali Linux" align="center" height="55" width="55" src="distros/icons8-kali-linux-100.png">
 <!-- <img alt="BlackArch" align="center" height="55" width="55" src="distros/pngaaa.com-3063500.png"> -->
 <!-- <img alt="NixOS" height="55" align="center" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" /> -->
-</div>
-
-<!-- ## Project Management
-<div style="diplay: inline-block"><br> 
-<img align="center" alt="Gradle" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" /> 
-<img align="center" alt="Maven" height="55" width="55" src="./java-pm/Apache_Maven_logo.svg" /> 
-<img align="center" alt="CMake" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg">
-</div>
--->
-
-## IDEs
-<div style="diplay: inline-block"><br>
-<img align="center" alt="IntelliJ Idea" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-<img align="center" alt="Jupyter" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-<img align="center" alt="PyCharm" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
-<img align="center" alt="Vim" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
-<img align="center" alt="VS Code" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
 ## Others
@@ -261,29 +210,21 @@ UiPath
 <img align="center" alt="Raspberry Pi" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
 <img align="center" alt="Latex" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
 <img align="center" alt="Cython" height="55" width="55" src="libs/file_type_cython_icon_130653.png">
-<!-- <img align="center" alt="Figma" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> -->
 <!-- <img align="center" alt="Terraform" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"> -->
 <!-- <img align="center" alt="Ansible" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"> -->
-<!-- <img align="center" alt="Vagrant" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" /> -->
-<!-- <img align="center" alt="OpenGL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" /> -->
-<!-- <img align="center" alt="Qt" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" /> -->
-<!-- GTK -->
           
 </div>
 
 
 # 📊 Stats
-![](https://github-readme-stats.vercel.app/api?username=varad-comrad&theme=react&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=21&card_width=288px\&rank_icon=percentile&line_height=31&card_width=296px)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=varad-comrad&langs_count=8&theme=react&hide_border=false&include_all_commits=true&count_private=true&hide=jupyter%20notebook,HTML,CSS&layout=compact&line_height=31&card_width=296px)
+![](https://github-readme-stats.vercel.app/api?username=varad-comrad&theme=react&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=20&card_width=288px\&rank_icon=percentile&line_height=31&card_width=296px)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=varad-comrad&langs_count=6&theme=react&hide_border=false&include_all_commits=true&count_private=true&hide=jupyter%20notebook,HTML,CSS&layout=compact&line_height=31&card_width=296px)
 # 🌐 Socials
 
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-asfora-74794a248) 
  [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabricio.asfora.001@gmail.com)
  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/#asford#3101)
- [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/varadcomrad)
-<!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/)-->
-
+ 
 # Top Repositories
 
 
