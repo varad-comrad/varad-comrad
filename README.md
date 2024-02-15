@@ -183,7 +183,7 @@ UiPath
 
 ### Cloud
 <div style="diplay: inline-block"><br>
-<img align="center" alt="AWS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="center" alt="AWS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 <!-- <img align="center" alt="Azure" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /> -->
 <!-- <img align="center" alt="Google Cloud" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /> -->
 </div>
