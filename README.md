@@ -3,9 +3,9 @@
 # 💻 About Me
 👨🏻‍💻 I'm a computer engineering student at Instituto Militar de Engenharia.
 
-💼 Currently I'm developing [F.R.I.D.A.Y.](https://github.com/F-R-I-D-A-Y-Project/F.R.I.D.A.Y-Python) and studying the Transformers Architecture.
+💼 Currently I'm developing [F.R.I.D.A.Y.](https://github.com/F-R-I-D-A-Y-Project/F.R.I.D.A.Y-Python) and studying MLOps.
 
-📚 My areas of interest are Neural Networks, Optimization, Big Data and Operating Systems
+📚 My areas of interest are Computer Vision, Big Data, Robotics, Natural Language Processing and Reinforcement Learning
 
 <!-- 📓  You can see my portfolio [here](https://varad-comrad.github.io) -->
 <!--
